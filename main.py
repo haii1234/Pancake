@@ -58,7 +58,7 @@ def format_message_html(message: dict) -> str:
         lines.append('<hr style="margin-top: 20px; margin-bottom: 20px;">')
 
     # Footer
-    lines.append('<p style="font-family: monospace;">View all companies at <a href="https://github.com/nc0le/Pancake" target="_blank">github.com/nc0le/Pancake</a></p>')
+    lines.append('<p style="font-family: monospace;">View all companies at <a href="https://github.com/haii1234/Pancake" target="_blank">github.com/haii1234/Pancake</a></p>')
 
     return "\n".join(lines)
 
