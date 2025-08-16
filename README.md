@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 3562 roles across 128 companies*
+*Found 3563 roles across 128 companies*
 
 
 <table>
@@ -45,6 +45,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">HR Data Analyst - Operations Analyst Program: August 2025 Start</div></td>
+  <td>8/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Developer - Sports Analytics</div></td>
   <td>8/16</td>
 </tr>
   <tr>
