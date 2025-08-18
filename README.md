@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 3622 roles across 128 companies*
+*Found 3623 roles across 128 companies*
 
 
 <table>
@@ -357,6 +357,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">College Intern - Application Development</div></td>
+  <td>8/18</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amentumcareers.com/jobs/search?page=1&country_codes%5B%5D=US&query=%22Intern%22"><img src="https://cdn.brandfetch.io/amentum.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amentum" height="20" style="vertical-align:middle; margin-right:6px;"> Amentum</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">ISS Countermeasures System Project Manager</div></td>
   <td>8/18</td>
 </tr>
   <tr>
