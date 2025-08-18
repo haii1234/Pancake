@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 3641 roles across 128 companies*
+*Found 3644 roles across 128 companies*
 
 
 <table>
@@ -185,6 +185,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.rivian.com/careers-home/jobs?sortBy=relevance&page=1&categories=Internships"><img src="https://cdn.brandfetch.io/rivian.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rivian" height="20" style="vertical-align:middle; margin-right:6px;"> Rivian</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">UIUC Research Park - Hardware Functional Safety</div></td>
+  <td>8/18</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
 </td>
 
@@ -301,6 +309,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 Intern - Solutions Consulting Analyst</div></td>
+  <td>8/18</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern"><img src="https://cdn.brandfetch.io/adobe.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Adobe" height="20" style="vertical-align:middle; margin-right:6px;"> Adobe</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 Intern - Sales Velocity Analyst</div></td>
   <td>8/18</td>
 </tr>
   <tr>
@@ -493,6 +509,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">College Intern - Manufacturing Process Engineer</div></td>
+  <td>8/18</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.hp.com/careers?query=internship&Seniority=graduate&Seniority=internship&Seniority=Apprenticeship&domain=hp.com"><img src="https://cdn.brandfetch.io/hp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="HP" height="20" style="vertical-align:middle; margin-right:6px;"> HP</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">College Intern – Ink Manufacturing Engineer</div></td>
   <td>8/18</td>
 </tr>
   <tr>
