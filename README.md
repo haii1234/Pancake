@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 3896 roles across 128 companies*
+*Found 3898 roles across 128 companies*
 
 
 <table>
@@ -23,6 +23,14 @@
   </thead>
   <tbody>
 
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&src=Online%2FGoogle%20Website%2FByF&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&location=United%20States"><img src="https://cdn.brandfetch.io/google.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Google" height="20" style="vertical-align:middle; margin-right:6px;"> Google</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern, PhD, Summer 2026</div></td>
+  <td>8/25</td>
+</tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.bankofamerica.com/en-us/students/job-search?ref=search&rows=24&search=jobsByLocation&searchstring=United+States"><img src="https://cdn.brandfetch.io/bankofamerica.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bank of America" height="20" style="vertical-align:middle; margin-right:6px;"> Bank of America</a></div>
@@ -61,6 +69,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Developer \| Market Data \| Trading Signals & Feed Development</div></td>
+  <td>8/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Campus Recruitment Coordinator</div></td>
   <td>8/25</td>
 </tr>
   <tr>
