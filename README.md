@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 3956 roles across 128 companies*
+*Found 3967 roles across 128 companies*
 
 
 <table>
@@ -153,6 +153,30 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ramp.com/emerging-talent"><img src="https://cdn.brandfetch.io/ramp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Ramp" height="20" style="vertical-align:middle; margin-right:6px;"> Ramp</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">University Grad \| Customer Experience Agent</div></td>
+  <td>8/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ramp.com/emerging-talent"><img src="https://cdn.brandfetch.io/ramp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Ramp" height="20" style="vertical-align:middle; margin-right:6px;"> Ramp</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">University Grad \| Sales Development Representative</div></td>
+  <td>8/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ramp.com/emerging-talent"><img src="https://cdn.brandfetch.io/ramp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Ramp" height="20" style="vertical-align:middle; margin-right:6px;"> Ramp</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">University Grad 2026: Software Engineer \| Frontend</div></td>
+  <td>8/25</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.datadoghq.com/early-careers/"><img src="https://cdn.brandfetch.io/datadoghq.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Datadog" height="20" style="vertical-align:middle; margin-right:6px;"> Datadog</a></div>
 </td>
 
@@ -213,6 +237,54 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SR. ELECTRICAL DESIGN ENGINEER (AVIONICS)</div></td>
+  <td>8/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">ACCOUNTANT</div></td>
+  <td>8/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">MANUFACTURING SPECIALIST, PCBA (STARLINK) - 2ND SHIFT</div></td>
+  <td>8/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">PRINCIPAL RFIC ENGINEER</div></td>
+  <td>8/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SR. ELECTRICAL CONTROLS ENGINEER, CONSUMER HARDWARE (STARLINK)</div></td>
+  <td>8/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">STRUCTURES TECHNICIAN (COMPOSITES)</div></td>
+  <td>8/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">WELD SUPPORT TECHNICIAN - SPLIT SHIFT NIGHT</div></td>
   <td>8/25</td>
 </tr>
   <tr>
@@ -341,6 +413,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 Summer Mechanical Design Engineering Rotational Intern</div></td>
+  <td>8/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.verkada.com/careers/"><img src="https://cdn.brandfetch.io/verkada.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Verkada" height="20" style="vertical-align:middle; margin-right:6px;"> Verkada</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Support Engineering Intern - Summer 2026 - San Mateo, CA United States</div></td>
   <td>8/25</td>
 </tr>
   <tr>
@@ -621,6 +701,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Boeing Summer 2026 Internship Program (Paid) - Quality Engineering Intern</div></td>
+  <td>8/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Aircraft Maintenance Engineer - Trainee Opportunity NDI</div></td>
   <td>8/25</td>
 </tr>
   <tr>
