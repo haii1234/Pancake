@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 4021 roles across 128 companies*
+*Found 4024 roles across 128 companies*
 
 
 <table>
@@ -301,6 +301,30 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">GIS Data Analyst - Data & Analytics - Abidjan, Côte d’Ivoire; Abuja, Nigeria; Accra, Ghana; Kigali, Rwanda; Nairobi, Kenya</div></td>
+  <td>8/26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.verkada.com/careers/"><img src="https://cdn.brandfetch.io/verkada.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Verkada" height="20" style="vertical-align:middle; margin-right:6px;"> Verkada</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Backend Software Engineering Intern 2026 - San Mateo, CA United States</div></td>
+  <td>8/26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.verkada.com/careers/"><img src="https://cdn.brandfetch.io/verkada.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Verkada" height="20" style="vertical-align:middle; margin-right:6px;"> Verkada</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Embedded Software Engineering Intern 2026 - San Mateo, CA United States</div></td>
+  <td>8/26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.verkada.com/careers/"><img src="https://cdn.brandfetch.io/verkada.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Verkada" height="20" style="vertical-align:middle; margin-right:6px;"> Verkada</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Frontend Software Engineering Intern 2026 - San Mateo, CA United States</div></td>
   <td>8/26</td>
 </tr>
   <tr>
