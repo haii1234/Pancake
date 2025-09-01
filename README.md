@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 4231 roles across 128 companies*
+*Found 4236 roles across 128 companies*
 
 
 <table>
@@ -23,6 +23,46 @@
   </thead>
   <tbody>
 
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.bankofamerica.com/en-us/students/job-search?ref=search&rows=24&search=jobsByLocation&searchstring=United+States"><img src="https://cdn.brandfetch.io/bankofamerica.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bank of America" height="20" style="vertical-align:middle; margin-right:6px;"> Bank of America</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Finance Management 2026 Analyst</div></td>
+  <td>9/1</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Product & Franchise Strategy Intern, Spring 2026</div></td>
+  <td>9/1</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Disney Destinations Communications Intern, Spring 2026</div></td>
+  <td>9/1</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Disney Signature Experiences Pricing & Revenue Management Intern, Spring 2026</div></td>
+  <td>9/1</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Walt Disney World Environmental Science/Engineering Intern, Spring 2026</div></td>
+  <td>9/1</td>
+</tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.splunk.com/en_us/careers/search-jobs.html?page=1&type=Intern"><img src="https://cdn.brandfetch.io/splunk.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Splunk" height="20" style="vertical-align:middle; margin-right:6px;"> Splunk</a></div>
