@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 4321 roles across 128 companies*
+*Found 4330 roles across 128 companies*
 
 
 <table>
@@ -273,6 +273,30 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">NEW GRADUATE ENGINEER, MECHANICAL (STARSHIP)</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">NEW GRADUATE ENGINEER, PROPULSION (STARSHIP)</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">NEW GRADUATE ENGINEER, SOFTWARE (STARSHIP)</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
 </td>
 
@@ -285,6 +309,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Deloitte - Software Engineering Summer Scholar</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.hudsonrivertrading.com/careers/?job-type=internship%2C"><img src="https://cdn.brandfetch.io/hudsonrivertrading.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Hudson River Trading" height="20" style="vertical-align:middle; margin-right:6px;"> Hudson River Trading</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">PhD Winter Internship – 2026</div></td>
   <td>9/2</td>
 </tr>
   <tr>
@@ -373,6 +405,46 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Disney Programs Digital Content Intern, Spring 2026</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">WDI Communications Intern, Spring 2026</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">WDI Project Controls Estimating Intern, Spring 2026</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">WDI Project Controls Planning Intern, Spring 2026</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">WDI Construction Management Intern, Spring 2026</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Disney College & International Recruitment Intern, Spring 2026</div></td>
   <td>9/2</td>
 </tr>
   <tr>
