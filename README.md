@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 4535 roles across 128 companies*
+*Found 4542 roles across 128 companies*
 
 
 <table>
@@ -173,6 +173,22 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">INTEGRATION TECHNICIAN (F9 SUBASSEMBLY)</div></td>
+  <td>9/3</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">IT SYSTEMS ADMINISTRATOR (WINDOWS)</div></td>
+  <td>9/3</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">NON-DESTRUCTIVE TESTING INSPECTOR LEVEL II (NDE) - EDDY CURRENT (ET)</div></td>
   <td>9/3</td>
 </tr>
   <tr>
@@ -397,6 +413,38 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Director, Software Engineering, Copilot Platform</div></td>
+  <td>9/3</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://bostondynamics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/bostondynamics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boston Dynamics" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Dynamics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Customer Success Manager</div></td>
+  <td>9/3</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.epicgames.com/site/en-US/careers/jobs?type=Intern&page=1"><img src="https://cdn.brandfetch.io/epicgames.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Epic Games" height="20" style="vertical-align:middle; margin-right:6px;"> Epic Games</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Concept Artist Intern</div></td>
+  <td>9/3</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.epicgames.com/site/en-US/careers/jobs?type=Intern&page=1"><img src="https://cdn.brandfetch.io/epicgames.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Epic Games" height="20" style="vertical-align:middle; margin-right:6px;"> Epic Games</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Concept Artist Intern</div></td>
+  <td>9/3</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.epicgames.com/site/en-US/careers/jobs?type=Intern&page=1"><img src="https://cdn.brandfetch.io/epicgames.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Epic Games" height="20" style="vertical-align:middle; margin-right:6px;"> Epic Games</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Production Intern</div></td>
   <td>9/3</td>
 </tr>
   <tr>
@@ -725,6 +773,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Winter 2026 Onboard Infrastructure EngineerNew</div></td>
+  <td>9/3</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/xpengmotors?keyword=intern"><img src="https://cdn.brandfetch.io/xiaopeng.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="XPENG" height="20" style="vertical-align:middle; margin-right:6px;"> XPENG</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Program ManagerNew</div></td>
   <td>9/3</td>
 </tr>
   <tr>
