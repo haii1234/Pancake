@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 4720 roles across 128 companies*
+*Found 4722 roles across 128 companies*
 
 
 <table>
@@ -93,6 +93,22 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">DevOps Engineer</div></td>
+  <td>9/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern"><img src="https://cdn.brandfetch.io/siemens.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Siemens" height="20" style="vertical-align:middle; margin-right:6px;"> Siemens</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Strategic Student Program: Technical Marketing Co-op (Spring 2026) - Milford, OH - Work Type:Hybrid - Req ID:477280</div></td>
+  <td>9/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern"><img src="https://cdn.brandfetch.io/siemens.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Siemens" height="20" style="vertical-align:middle; margin-right:6px;"> Siemens</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Strategic Student Program: Simcenter Scrum Co-op (Spring 2026) - Milford, OH - Work Type:Hybrid - Req ID:476497</div></td>
   <td>9/6</td>
 </tr>
   <tr>
