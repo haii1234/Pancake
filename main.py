@@ -69,7 +69,7 @@ def send_email(message: dict, test: bool = False) -> None:
     msg["From"] = "nicolezcui@gmail.com"
     msg["To"] = "nicolezcui@gmail.com"
     if not test:
-        msg["Cc"] = "biancazhg9@gmail.com, huan2137@purdue.edu, 27d.gao@gmail.com, bgl2126@columbia.edu, jl7026@columbia.edu, doraliao502@gmail.com"
+        msg["Cc"] = "biancazhg9@gmail.com, huan2137@purdue.edu, 27d.gao@gmail.com, bgl2126@columbia.edu, jl7026@columbia.edu, doraliao502@gmail.com, acb2319@columbia.edu"
     html_content = format_message_html(message)
     msg.set_content("This email contains HTML. Please view it in an HTML-compatible client.")
     msg.add_alternative(html_content, subtype="html")
