@@ -26,7 +26,7 @@ def get_driver(headless=True, use_undetected=False):
         options.add_argument(
             "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
         )
-        return uc.Chrome(options=options)
+        return uc.Chrome(version_main=140, options=options)
 
     else:
         options = Options()
