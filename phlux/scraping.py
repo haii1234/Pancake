@@ -44,110 +44,116 @@ class Actions:
     def has_flag(self, action: str, flag: str) -> bool:
         return f":{flag}" in action
 
-@retry(wait=wait_fixed(5), stop=stop_after_attempt(5))
-def get_jobs_headless(name: str, urls: str, instructions: str, headless=True, test=False) -> List[str]:
+def get_jobs_headless(name: str, urls: str, instructions: str, headless=True, test=False) -> list[str]:
     """Scrape job titles from `url` using a sequence of actions like CLICK, CSS, FILTER, UNDETECTED."""
     
-    # Clean quote wrapping, e.g. "CSS:.job-title" -> CSS:.job-title
+    # --- Setup actions (no changes here) ---
     if instructions.startswith('"') and instructions.endswith('"'):
         instructions = instructions[1:-1]
-
     actions = Actions(instructions.split("->"))
     use_undetected = any(a.strip() == UNDETECTED for a in actions)
     
-    driver = get_driver(headless=headless, use_undetected=use_undetected)
+    driver = None
     jobs = []
 
     try:
+        driver = get_driver(headless=headless, use_undetected=use_undetected)
+
         for url in urls.split("->"):
-            try:
-                driver.get(url)
-                time.sleep(3)
+            driver.get(url)
+            time.sleep(3)
 
-                for action in actions:
-                    action = action.strip()
-                    if action == UNDETECTED:
-                        continue  # Already handled by flag
+            for action in actions:
+                action = action.strip()
+                if action == UNDETECTED:
+                    continue
 
-                    if ":" not in action:
-                        print(f"\u26a0\ufe0f Invalid action format: {action}")
-                        continue
+                if ":" not in action:
+                    print(f"⚠️ Invalid action format: {action}")
+                    continue
 
-                    action_type = actions.get_type(action)
-                    selector = actions.get_selector(action)
-                    use_pointer = actions.has_flag(action, "pointer")
+                action_type = actions.get_type(action)
+                selector = actions.get_selector(action)
+                use_pointer = actions.has_flag(action, "pointer")
 
-                    if action_type not in ACTION_TYPES:
-                        print(f"\u26a0\ufe0f Unknown action type '{action_type}' for {name}")
-                        continue
+                if action_type not in ACTION_TYPES:
+                    print(f"⚠️ Unknown action type '{action_type}' for {name}")
+                    continue
 
-                    elif action_type == CSS:
-                        if ">>" in selector:
-                            parent_selector, child_selector = map(str.strip, selector.split(">>", 1))
-
-                            WebDriverWait(driver, 15).until(
-                                EC.presence_of_all_elements_located((By.CSS_SELECTOR, parent_selector))
-                            )
-                            parents = driver.find_elements(By.CSS_SELECTOR, parent_selector)
-
-                            for el in parents:
-                                try:
-                                    child = el.find_element(By.CSS_SELECTOR, child_selector)
-                                    text = child.text.strip()
-                                    if text:
-                                        jobs.append(text)
-                                except Exception:
-                                    continue
-                        else:
-                            WebDriverWait(driver, 15).until(
-                                EC.presence_of_all_elements_located((By.CSS_SELECTOR, selector))
-                            )
-                            elements = driver.find_elements(By.CSS_SELECTOR, selector)
-                            for el in elements:
-                                text = el.text.strip()
+                elif action_type == CSS:
+                    if ">>" in selector:
+                        parent_selector, child_selector = map(str.strip, selector.split(">>", 1))
+                        WebDriverWait(driver, 15).until(
+                            EC.presence_of_all_elements_located((By.CSS_SELECTOR, parent_selector))
+                        )
+                        parents = driver.find_elements(By.CSS_SELECTOR, parent_selector)
+                        for el in parents:
+                            try:
+                                child = el.find_element(By.CSS_SELECTOR, child_selector)
+                                text = child.text.strip()
                                 if text:
                                     jobs.append(text)
+                            except Exception:
+                                continue
+                    else:
+                        WebDriverWait(driver, 15).until(
+                            EC.presence_of_all_elements_located((By.CSS_SELECTOR, selector))
+                        )
+                        elements = driver.find_elements(By.CSS_SELECTOR, selector)
+                        for el in elements:
+                            text = el.text.strip()
+                            if text:
+                                jobs.append(text)
 
-                    elif action_type == CLICK:
-                        try:
-                            if selector.startswith("'") and selector.endswith("'"):
-                                xpath_text = selector[1:-1]
-                                element = WebDriverWait(driver, 15).until(
-                                    EC.presence_of_element_located((By.XPATH, xpath_text))
-                                )
-                            else:
-                                element = WebDriverWait(driver, 15).until(
-                                    EC.presence_of_element_located((By.CSS_SELECTOR, selector))
-                                )
+                elif action_type == CLICK:
+                    try:
+                        if selector.startswith("'") and selector.endswith("'"):
+                            xpath_text = selector[1:-1]
+                            element = WebDriverWait(driver, 15).until(
+                                EC.presence_of_element_located((By.XPATH, xpath_text))
+                            )
+                        else:
+                            element = WebDriverWait(driver, 15).until(
+                                EC.presence_of_element_located((By.CSS_SELECTOR, selector))
+                            )
 
-                            if use_pointer:
-                                driver.execute_script("""
-                                    const el = arguments[0];
-                                    el.dispatchEvent(new MouseEvent('pointerdown', { bubbles: true }));
-                                    el.dispatchEvent(new MouseEvent('mousedown', { bubbles: true }));
-                                    el.dispatchEvent(new MouseEvent('mouseup', { bubbles: true }));
-                                    el.dispatchEvent(new MouseEvent('click', { bubbles: true }));
-                                """, element)
-                            else:
-                                driver.execute_script("arguments[0].click();", element)
-                            time.sleep(2)
-                        except Exception as exc:
-                            print(f"\u274c Failed clicking for {name} - {exc}")
+                        if use_pointer:
+                            driver.execute_script("""
+                                const el = arguments[0];
+                                el.dispatchEvent(new MouseEvent('pointerdown', { bubbles: true }));
+                                el.dispatchEvent(new MouseEvent('mousedown', { bubbles: true }));
+                                el.dispatchEvent(new MouseEvent('mouseup', { bubbles: true }));
+                                el.dispatchEvent(new MouseEvent('click', { bubbles: true }));
+                            """, element)
+                        else:
+                            driver.execute_script("arguments[0].click();", element)
+                        time.sleep(2)
+                    except Exception as exc:
+                        print(f"❌ Failed clicking for {name} - {exc}")
 
-                    elif action_type == FILTER:
-                        jobs = [j for j in jobs if selector.lower() in j.lower()]
+                elif action_type == FILTER:
+                    jobs = [j for j in jobs if selector.lower() in j.lower()]
+        
+        if not jobs:
+            print(f"❌ No jobs found - {name}")
+        else:
+            print(f"✅ Jobs found - {name}")
+        
+        return jobs
 
-            except TimeoutException:
-                print(f"Timeout for {name} at {url}")
-                continue
+    except (WebDriverException, TimeoutException, Exception) as e:
+        print(f"❌ An unrecoverable error occurred for {name}: {type(e).__name__}")
+        # Always return an empty list on failure to prevent crashing the main process
+        return []
 
     finally:
         if test:
             time.sleep(60)
-        try:
-            driver.quit()
-        except Exception:
-            pass
+        if driver:
+            try:
+                driver.quit()
+            except Exception:
+                pass
 
     if not jobs:
         print(f"\u274c No jobs found - {name}")
