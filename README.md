@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 5168 roles across 128 companies*
+*Found 5169 roles across 128 companies*
 
 
 <table>
@@ -61,6 +61,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">R&D Sustaining Engineering Intern</div></td>
+  <td>9/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.se.com/global/jobs?keywords=internship&sortBy=relevance&page=1&country=United%20States&tags1=Intern"><img src="https://cdn.brandfetch.io/se.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Scheider Electric" height="20" style="vertical-align:middle; margin-right:6px;"> Scheider Electric</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data & Analytics Intern</div></td>
   <td>9/12</td>
 </tr>
   <tr>
