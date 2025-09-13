@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 5241 roles across 128 companies*
+*Found 5251 roles across 128 companies*
 
 
 <table>
@@ -23,6 +23,86 @@
   </thead>
   <tbody>
 
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.splunk.com/en_us/careers/search-jobs.html?page=1&type=Intern"><img src="https://cdn.brandfetch.io/splunk.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Splunk" height="20" style="vertical-align:middle; margin-right:6px;"> Splunk</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Account Executive, Splunk</div></td>
+  <td>9/13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.splunk.com/en_us/careers/search-jobs.html?page=1&type=Intern"><img src="https://cdn.brandfetch.io/splunk.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Splunk" height="20" style="vertical-align:middle; margin-right:6px;"> Splunk</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Account Executive - Splunk - Commercial</div></td>
+  <td>9/13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.splunk.com/en_us/careers/search-jobs.html?page=1&type=Intern"><img src="https://cdn.brandfetch.io/splunk.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Splunk" height="20" style="vertical-align:middle; margin-right:6px;"> Splunk</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Account Executive - Splunk- Named</div></td>
+  <td>9/13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.splunk.com/en_us/careers/search-jobs.html?page=1&type=Intern"><img src="https://cdn.brandfetch.io/splunk.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Splunk" height="20" style="vertical-align:middle; margin-right:6px;"> Splunk</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Regional Sales Manager, Kuwait & Bahrain</div></td>
+  <td>9/13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.splunk.com/en_us/careers/search-jobs.html?page=1&type=Intern"><img src="https://cdn.brandfetch.io/splunk.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Splunk" height="20" style="vertical-align:middle; margin-right:6px;"> Splunk</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Regional Sales Manager (Pune)</div></td>
+  <td>9/13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.splunk.com/en_us/careers/search-jobs.html?page=1&type=Intern"><img src="https://cdn.brandfetch.io/splunk.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Splunk" height="20" style="vertical-align:middle; margin-right:6px;"> Splunk</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior TechOps Manager</div></td>
+  <td>9/13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.splunk.com/en_us/careers/search-jobs.html?page=1&type=Intern"><img src="https://cdn.brandfetch.io/splunk.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Splunk" height="20" style="vertical-align:middle; margin-right:6px;"> Splunk</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Account Executive, Abu Dhabi Public Sector</div></td>
+  <td>9/13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.splunk.com/en_us/careers/search-jobs.html?page=1&type=Intern"><img src="https://cdn.brandfetch.io/splunk.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Splunk" height="20" style="vertical-align:middle; margin-right:6px;"> Splunk</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Regional Sales Manager - Utilities</div></td>
+  <td>9/13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.splunk.com/en_us/careers/search-jobs.html?page=1&type=Intern"><img src="https://cdn.brandfetch.io/splunk.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Splunk" height="20" style="vertical-align:middle; margin-right:6px;"> Splunk</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Account Executive - Splunk - Houston Territory</div></td>
+  <td>9/13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.splunk.com/en_us/careers/search-jobs.html?page=1&type=Intern"><img src="https://cdn.brandfetch.io/splunk.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Splunk" height="20" style="vertical-align:middle; margin-right:6px;"> Splunk</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Account Executive - Splunk Enterprise</div></td>
+  <td>9/13</td>
+</tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.intuit.com/search-jobs/interns/"><img src="https://cdn.brandfetch.io/intuit.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intuit" height="20" style="vertical-align:middle; margin-right:6px;"> Intuit</a></div>
