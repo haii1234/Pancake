@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 5689 roles across 128 companies*
+*Found 5690 roles across 128 companies*
 
 
 <table>
@@ -261,6 +261,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Customer Success Manager</div></td>
+  <td>9/19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/replit"><img src="https://cdn.brandfetch.io/replit.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Replit" height="20" style="vertical-align:middle; margin-right:6px;"> Replit</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Content Marketing Manager - GTM • Foster City, CA (Hybrid) In office M,W,F • Full time</div></td>
   <td>9/19</td>
 </tr>
   <tr>
