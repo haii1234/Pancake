@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 5756 roles across 128 companies*
+*Found 5766 roles across 128 companies*
 
 
 <table>
@@ -23,6 +23,86 @@
   </thead>
   <tbody>
 
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://bostonscientific.eightfold.ai/careers?start=0&location=United+States&pid=563602797912246&sort_by=distance&filter_include_remote=1&filter_seniority=Intern"><img src="https://cdn.brandfetch.io/bostonscientific.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boston Scientific" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Scientific</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Equipment Engineering Mechanical Engineer Intern 2026</div></td>
+  <td>9/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Content Licensing Insights Intern, Spring 2026</div></td>
+  <td>9/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://razer.wd3.myworkdayjobs.com/Careers?jobFamilyGroup=5f89d961603401a62553f98eab0c3255"><img src="https://cdn.brandfetch.io/razer.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Razer" height="20" style="vertical-align:middle; margin-right:6px;"> Razer</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">AI Marketing Intern</div></td>
+  <td>9/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://razer.wd3.myworkdayjobs.com/Careers?jobFamilyGroup=5f89d961603401a62553f98eab0c3255"><img src="https://cdn.brandfetch.io/razer.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Razer" height="20" style="vertical-align:middle; margin-right:6px;"> Razer</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">IT Service Management Intern</div></td>
+  <td>9/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://razer.wd3.myworkdayjobs.com/Careers?jobFamilyGroup=5f89d961603401a62553f98eab0c3255"><img src="https://cdn.brandfetch.io/razer.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Razer" height="20" style="vertical-align:middle; margin-right:6px;"> Razer</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Product Analyst Intern</div></td>
+  <td>9/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://razer.wd3.myworkdayjobs.com/Careers?jobFamilyGroup=5f89d961603401a62553f98eab0c3255"><img src="https://cdn.brandfetch.io/razer.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Razer" height="20" style="vertical-align:middle; margin-right:6px;"> Razer</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Procurement Intern</div></td>
+  <td>9/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://razer.wd3.myworkdayjobs.com/Careers?jobFamilyGroup=5f89d961603401a62553f98eab0c3255"><img src="https://cdn.brandfetch.io/razer.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Razer" height="20" style="vertical-align:middle; margin-right:6px;"> Razer</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Test Intern</div></td>
+  <td>9/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://razer.wd3.myworkdayjobs.com/Careers?jobFamilyGroup=5f89d961603401a62553f98eab0c3255"><img src="https://cdn.brandfetch.io/razer.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Razer" height="20" style="vertical-align:middle; margin-right:6px;"> Razer</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Test Intern</div></td>
+  <td>9/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://razer.wd3.myworkdayjobs.com/Careers?jobFamilyGroup=5f89d961603401a62553f98eab0c3255"><img src="https://cdn.brandfetch.io/razer.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Razer" height="20" style="vertical-align:middle; margin-right:6px;"> Razer</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Cybersecurity Intern</div></td>
+  <td>9/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://razer.wd3.myworkdayjobs.com/Careers?jobFamilyGroup=5f89d961603401a62553f98eab0c3255"><img src="https://cdn.brandfetch.io/razer.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Razer" height="20" style="vertical-align:middle; margin-right:6px;"> Razer</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Marketing (Creator Outreach) – Pflichtpraktikum (m/w/d)</div></td>
+  <td>9/22</td>
+</tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://autodesk.wd1.myworkdayjobs.com/uni?jobFamilyGroup=f909d7cccc2d480b8f6af996c7bf8352"><img src="https://cdn.brandfetch.io/autodesk.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Autodesk" height="20" style="vertical-align:middle; margin-right:6px;"> Autodesk</a></div>
