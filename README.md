@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 6066 roles across 128 companies*
+*Found 6068 roles across 128 companies*
 
 
 <table>
@@ -109,6 +109,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SR. ACCOUNTANT, INTERNATIONAL</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">PROPULSION ENGINEER, DEVELOPMENT OPERATIONS (RAPTOR)</div></td>
   <td>9/25</td>
 </tr>
   <tr>
@@ -333,6 +341,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Studio Marketing & Special Events Intern, Spring 2026</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Costume Development Intern, Spring 2026</div></td>
   <td>9/25</td>
 </tr>
   <tr>
