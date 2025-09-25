@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 6046 roles across 128 companies*
+*Found 6056 roles across 128 companies*
 
 
 <table>
@@ -23,6 +23,14 @@
   </thead>
   <tbody>
 
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobs?sort_by_new=true&roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Scientist Intern, Machine Learning, Character Animation (PhD)</div></td>
+  <td>9/25</td>
+</tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
@@ -93,6 +101,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">4G/5G Packet Core Software Test Co-op</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?lastSelectedFacet=TITLES&location=United+States&locationId=300000000480126&locationLevel=country&mode=location&selectedTitlesFacet=TRA"><img src="https://cdn.brandfetch.io/nokia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nokia" height="20" style="vertical-align:middle; margin-right:6px;"> Nokia</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Optical Networking Coop</div></td>
   <td>9/25</td>
 </tr>
   <tr>
@@ -185,6 +201,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://bostondynamics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/bostondynamics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boston Dynamics" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Dynamics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Manufacturing Test Engineer</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.smartrecruiters.com/Visa/university-recruiting"><img src="https://cdn.brandfetch.io/visa.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Visa" height="20" style="vertical-align:middle; margin-right:6px;"> Visa</a></div>
 </td>
 
@@ -197,6 +221,62 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Visa Returnship Program for Women 2025 - Java Backend/Fullstack - Software Development/Engineering</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://mycareer.verizon.com/jobs/?search=&team=Campus+%26+Apprenticeships&pagesize=100#results"><img src="https://cdn.brandfetch.io/verizon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Verizon" height="20" style="vertical-align:middle; margin-right:6px;"> Verizon</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Southern Methodist University Legal Summer 2026 Internship</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://mycareer.verizon.com/jobs/?search=&team=Campus+%26+Apprenticeships&pagesize=100#results"><img src="https://cdn.brandfetch.io/verizon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Verizon" height="20" style="vertical-align:middle; margin-right:6px;"> Verizon</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Verizon Legal Internship - Summer 2026 - Irving, TX</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://mycareer.verizon.com/jobs/?search=&team=Campus+%26+Apprenticeships&pagesize=100#results"><img src="https://cdn.brandfetch.io/verizon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Verizon" height="20" style="vertical-align:middle; margin-right:6px;"> Verizon</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Verizon Legal Summer 2026 Internship - Washington, D.C.</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://mycareer.verizon.com/jobs/?search=&team=Campus+%26+Apprenticeships&pagesize=100#results"><img src="https://cdn.brandfetch.io/verizon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Verizon" height="20" style="vertical-align:middle; margin-right:6px;"> Verizon</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Verizon Legal Summer 2026 Internship - Rolling Meadows, IL</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://mycareer.verizon.com/jobs/?search=&team=Campus+%26+Apprenticeships&pagesize=100#results"><img src="https://cdn.brandfetch.io/verizon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Verizon" height="20" style="vertical-align:middle; margin-right:6px;"> Verizon</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Verizon Legal Summer 2026 Internship - San Francisco, CA</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://mycareer.verizon.com/jobs/?search=&team=Campus+%26+Apprenticeships&pagesize=100#results"><img src="https://cdn.brandfetch.io/verizon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Verizon" height="20" style="vertical-align:middle; margin-right:6px;"> Verizon</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Verizon Legal Internship - Summer 2026 - Basking Ridge, NJ</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://mycareer.verizon.com/jobs/?search=&team=Campus+%26+Apprenticeships&pagesize=100#results"><img src="https://cdn.brandfetch.io/verizon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Verizon" height="20" style="vertical-align:middle; margin-right:6px;"> Verizon</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Texas Southern University Legal Summer 2026 Internship</div></td>
   <td>9/25</td>
 </tr>
   <tr>
