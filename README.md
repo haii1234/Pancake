@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 6138 roles across 128 companies*
+*Found 6141 roles across 128 companies*
 
 
 <table>
@@ -23,6 +23,14 @@
   </thead>
   <tbody>
 
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.uber.com/us/en/careers/list/?department=University&location=USA-California-San%20Francisco&location=USA-California-Culver%20City&location=USA-California-Sunnyvale&location=USA-New%20York-New%20York&location=USA-Illinois-Chicago&location=USA-Washington-Seattle&location=USA-Florida-Miami&location=USA-Texas-Dallas&location=USA-Arizona-Phoenix&location=USA-District%20of%20Columbia-Washington&location=USA-Massachusetts-Boston"><img src="https://cdn.brandfetch.io/uber.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Uber" height="20" style="vertical-align:middle; margin-right:6px;"> Uber</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 Summer Software Engineering Internship, US</div></td>
+  <td>9/26</td>
+</tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobs?sort_by_new=true&roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
@@ -133,6 +141,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 Undergraduate Product Development Engineering Intern/Co-op</div></td>
+  <td>9/26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><img src="https://cdn.brandfetch.io/amd.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="AMD" height="20" style="vertical-align:middle; margin-right:6px;"> AMD</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Spring/Summer 2026 PhD Agent Task Planning for Resource-Constrained Client Devices Co-op</div></td>
   <td>9/26</td>
 </tr>
   <tr>
@@ -469,6 +485,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Studio Creative Advertising & Design Intern, Spring 2026</div></td>
+  <td>9/26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=rsinternboard"><img src="https://cdn.brandfetch.io/relativity.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Relativity" height="20" style="vertical-align:middle; margin-right:6px;"> Relativity</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data Science Intern</div></td>
   <td>9/26</td>
 </tr>
   <tr>
