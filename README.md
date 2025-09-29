@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 6202 roles across 128 companies*
+*Found 6204 roles across 128 companies*
 
 
 <table>
@@ -29,6 +29,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Student Researcher, BS/MS, Winter/Summer 2026</div></td>
+  <td>9/29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://autodesk.wd1.myworkdayjobs.com/uni?jobFamilyGroup=f909d7cccc2d480b8f6af996c7bf8352"><img src="https://cdn.brandfetch.io/autodesk.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Autodesk" height="20" style="vertical-align:middle; margin-right:6px;"> Autodesk</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Intern, AI Agent and Knowledge Graphs</div></td>
   <td>9/29</td>
 </tr>
   <tr>
@@ -101,6 +109,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">ELECTRICAL ENGINEER, POWER SYSTEMS (STARLINK)</div></td>
+  <td>9/29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">COMBO WELDER</div></td>
   <td>9/29</td>
 </tr>
   <tr>
