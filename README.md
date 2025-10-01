@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 6394 roles across 128 companies*
+*Found 6396 roles across 128 companies*
 
 
 <table>
@@ -53,6 +53,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Scientist Intern, Multimodal Eye Tracking Algorithms (PhD)</div></td>
+  <td>10/1</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobs?sort_by_new=true&roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Scientist Intern, Applied Vision (PhD)</div></td>
   <td>10/1</td>
 </tr>
   <tr>
@@ -389,6 +397,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Strategy & Operations Intern</div></td>
+  <td>10/1</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sentry.io/careers/internships/"><img src="https://cdn.brandfetch.io/sentry.io/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sentry" height="20" style="vertical-align:middle; margin-right:6px;"> Sentry</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data Engineering Intern</div></td>
   <td>10/1</td>
 </tr>
   <tr>
