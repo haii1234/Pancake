@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 6409 roles across 128 companies*
+*Found 6412 roles across 128 companies*
 
 
 <table>
@@ -101,6 +101,22 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">12 Month Industrial Placement, QA Engineer</div></td>
+  <td>10/1</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://stripe.com/jobs/search?office_locations=North+America--Atlanta&office_locations=North+America--Chicago&office_locations=North+America--Mexico+City&office_locations=North+America--New+York&office_locations=North+America--San+Francisco+Bridge+HQ&office_locations=North+America--Seattle&office_locations=North+America--South+San+Francisco&office_locations=North+America--Toronto&office_locations=North+America--Washington+DC&tags=University"><img src="https://cdn.brandfetch.io/stripe.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Stripe" height="20" style="vertical-align:middle; margin-right:6px;"> Stripe</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data Analyst, Intern (Master's degree)</div></td>
+  <td>10/1</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://stripe.com/jobs/search?office_locations=North+America--Atlanta&office_locations=North+America--Chicago&office_locations=North+America--Mexico+City&office_locations=North+America--New+York&office_locations=North+America--San+Francisco+Bridge+HQ&office_locations=North+America--Seattle&office_locations=North+America--South+San+Francisco&office_locations=North+America--Toronto&office_locations=North+America--Washington+DC&tags=University"><img src="https://cdn.brandfetch.io/stripe.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Stripe" height="20" style="vertical-align:middle; margin-right:6px;"> Stripe</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">PhD Data Scientist, Intern</div></td>
   <td>10/1</td>
 </tr>
   <tr>
@@ -445,6 +461,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Disney Signature Experiences, DCL Lodging Operations Intern, Summer 2026</div></td>
+  <td>10/1</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=rsinternboard"><img src="https://cdn.brandfetch.io/relativity.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Relativity" height="20" style="vertical-align:middle; margin-right:6px;"> Relativity</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Additive Manufacturing Engineering InternNew</div></td>
   <td>10/1</td>
 </tr>
   <tr>
