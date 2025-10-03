@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 6504 roles across 128 companies*
+*Found 6505 roles across 128 companies*
 
 
 <table>
@@ -117,6 +117,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Material Planner</div></td>
+  <td>10/3</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.grammarly.com/careers/jobs#all:all:intern"><img src="https://cdn.brandfetch.io/grammarly.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Grammarly" height="20" style="vertical-align:middle; margin-right:6px;"> Grammarly</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">UX Research Intern (Summer 2026)</div></td>
   <td>10/3</td>
 </tr>
   <tr>
