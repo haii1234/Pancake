@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 6654 roles across 128 companies*
+*Found 6661 roles across 128 companies*
 
 
 <table>
@@ -37,6 +37,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Scientist Intern, FAIR - Multimodal & Video Foundations (PhD) \| Stagiaire chercheur scientifique, FAIR - Fondements multimodaux et vidéo (PhD)</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobs?sort_by_new=true&roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Scientist Intern, Product Algorithms (PhD)</div></td>
   <td>10/7</td>
 </tr>
   <tr>
@@ -77,6 +85,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Summer 2026 Intern - Business Value & Strategic Selling Consultant (Healthcare & Life Sciences)</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&jobtype=Intern&pagesize=20#results"><img src="https://cdn.brandfetch.io/salesforce.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Salesforce" height="20" style="vertical-align:middle; margin-right:6px;"> Salesforce</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Summer 2026 Intern - AI Research</div></td>
   <td>10/7</td>
 </tr>
   <tr>
@@ -169,6 +185,30 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern"><img src="https://cdn.brandfetch.io/adobe.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Adobe" height="20" style="vertical-align:middle; margin-right:6px;"> Adobe</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 Intern – Go to Market Legal</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern"><img src="https://cdn.brandfetch.io/adobe.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Adobe" height="20" style="vertical-align:middle; margin-right:6px;"> Adobe</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 AI/ML Intern - Machine Learning Engineer/Researcher Intern</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern"><img src="https://cdn.brandfetch.io/siemens.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Siemens" height="20" style="vertical-align:middle; margin-right:6px;"> Siemens</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineering Internship - Buffalo Grove, IL - Req ID:476165</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers"><img src="https://cdn.brandfetch.io/rockwellautomation.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rockwell Automation" height="20" style="vertical-align:middle; margin-right:6px;"> Rockwell Automation</a></div>
 </td>
 
@@ -201,6 +241,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://bostondynamics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/bostondynamics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boston Dynamics" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Dynamics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Facilities Technician IV</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://mycareer.verizon.com/jobs/?search=&team=Campus+%26+Apprenticeships&pagesize=100#results"><img src="https://cdn.brandfetch.io/verizon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Verizon" height="20" style="vertical-align:middle; margin-right:6px;"> Verizon</a></div>
 </td>
 
@@ -221,6 +269,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Social Media Marketing Strategy Intern, Spring 2026</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">ESPN Content Operation Intern, Bristol, Spring 2026</div></td>
   <td>10/7</td>
 </tr>
   <tr>
