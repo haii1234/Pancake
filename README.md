@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 6725 roles across 128 companies*
+*Found 6726 roles across 128 companies*
 
 
 <table>
@@ -277,6 +277,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">CSP Partner Development Manager - Global</div></td>
+  <td>10/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://bostondynamics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/bostondynamics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boston Dynamics" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Dynamics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Staff Robotics Engineer- Localization</div></td>
   <td>10/8</td>
 </tr>
   <tr>
