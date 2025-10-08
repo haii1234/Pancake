@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 6724 roles across 128 companies*
+*Found 6725 roles across 128 companies*
 
 
 <table>
@@ -237,6 +237,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Strategic Student Program: Social Acquisition Marketing Intern (ST&MK, Spring 2026) - Maryland Heights, MO - Work Type:Remote - Req ID:478062</div></td>
+  <td>10/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern"><img src="https://cdn.brandfetch.io/siemens.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Siemens" height="20" style="vertical-align:middle; margin-right:6px;"> Siemens</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">DOD SkillBridge Internship – Field Technician - Worthington, OH - Req ID:474601</div></td>
   <td>10/8</td>
 </tr>
   <tr>
