@@ -13947,6 +13947,26 @@
       {
         "title": "HOSPITALITY SPECIALIST",
         "date": "10/11"
+      },
+      {
+        "title": "INTEGRATION TECHNICIAN (DRAGON)",
+        "date": "10/13"
+      },
+      {
+        "title": "OPERATIONS ENGINEER (COMPOSITE PRODUCTION)",
+        "date": "10/13"
+      },
+      {
+        "title": "ORBITAL TUBE WELDER (DRAGON)",
+        "date": "10/13"
+      },
+      {
+        "title": "PROPULSION TECHNICIAN (DRAGON)",
+        "date": "10/13"
+      },
+      {
+        "title": "TIG WELDER (MERLIN)",
+        "date": "10/13"
       }
     ],
     "IBM": [
@@ -19874,7 +19894,12 @@
         "date": "10/10"
       }
     ],
-    "RedHat": [],
+    "RedHat": [
+      {
+        "title": "AI Intern",
+        "date": "10/13"
+      }
+    ],
     "Boston Dynamics": [
       {
         "title": "Senior Supervisor, Field Applications Engineering",
