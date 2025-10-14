@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 6940 roles across 128 companies*
+*Found 6941 roles across 128 companies*
 
 
 <table>
@@ -29,6 +29,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer II, Early Career, Google Cloud AI Catalyst Program</div></td>
+  <td>10/14</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.mongodb.com/company/careers/students-and-graduates"><img src="https://cdn.brandfetch.io/mongodb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="MongoDB" height="20" style="vertical-align:middle; margin-right:6px;"> MongoDB</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 - Software Engineer Intern, Barcelona</div></td>
   <td>10/14</td>
 </tr>
   <tr>
