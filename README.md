@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 7149 roles across 128 companies*
+*Found 7152 roles across 128 companies*
 
 
 <table>
@@ -45,6 +45,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 Investment Banking Summer Associate Program (Menlo Park)</div></td>
+  <td>10/17</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#"><img src="https://cdn.brandfetch.io/morganstanley.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Morgan Stanley" height="20" style="vertical-align:middle; margin-right:6px;"> Morgan Stanley</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 Technology Full-Time Analyst Program (Alpharetta)</div></td>
   <td>10/17</td>
 </tr>
   <tr>
@@ -201,10 +209,26 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers"><img src="https://cdn.brandfetch.io/rockwellautomation.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rockwell Automation" height="20" style="vertical-align:middle; margin-right:6px;"> Rockwell Automation</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Intern, Firmware Test Development</div></td>
+  <td>10/17</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.se.com/global/jobs?keywords=internship&sortBy=relevance&page=1&country=United%20States&tags1=Intern"><img src="https://cdn.brandfetch.io/se.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Scheider Electric" height="20" style="vertical-align:middle; margin-right:6px;"> Scheider Electric</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Project Engineer Intern (Summer 2026)</div></td>
+  <td>10/17</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/replit"><img src="https://cdn.brandfetch.io/replit.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Replit" height="20" style="vertical-align:middle; margin-right:6px;"> Replit</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mid-Market Account Executive - GTM • Foster City, CA (Hybrid) In office M,W,F • Full time • Hybrid</div></td>
   <td>10/17</td>
 </tr>
   <tr>
