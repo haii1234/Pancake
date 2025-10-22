@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 7352 roles across 128 companies*
+*Found 7355 roles across 128 companies*
 
 
 <table>
@@ -53,6 +53,22 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Summer 2026 Undergrad Analog/Mixed-Signal Design Intern</div></td>
+  <td>10/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><img src="https://cdn.brandfetch.io/amd.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="AMD" height="20" style="vertical-align:middle; margin-right:6px;"> AMD</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Summer 2026 Masters Analog/Mixed-Signal Intern</div></td>
+  <td>10/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><img src="https://cdn.brandfetch.io/amd.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="AMD" height="20" style="vertical-align:middle; margin-right:6px;"> AMD</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Spring/Summer 2026 PhD Analog & Mixed Signal / Photonics Co-Op</div></td>
   <td>10/22</td>
 </tr>
   <tr>
@@ -333,6 +349,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Warehouse Robotics Operations Technician</div></td>
+  <td>10/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Fire WDW Protection Engineering Intern, Spring 2026</div></td>
   <td>10/22</td>
 </tr>
   <tr>
