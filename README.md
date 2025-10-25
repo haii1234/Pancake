@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 7501 roles across 128 companies*
+*Found 7503 roles across 128 companies*
 
 
 <table>
@@ -37,6 +37,22 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">ELECTRICAL TEST ENGINEER (AVIONICS)</div></td>
+  <td>10/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">DEBURR TECHNICIAN, MACHINING (STARSHIP)</div></td>
+  <td>10/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">DEBURR TECHNICIAN, MACHINING (STARSHIP) - 2ND SHIFT</div></td>
   <td>10/25</td>
 </tr>
   <tr>
