@@ -6551,7 +6551,96 @@
         "date": "12/29"
       }
     ],
-    "Waymo": [],
+    "Waymo": [
+      {
+        "title": "2026 Intern, PhD, Machine Learning Engineer, Simulation",
+        "date": "1/9"
+      },
+      {
+        "title": "2026 Summer Intern, BS/MS, Compute Systems, Mechanical Engineer",
+        "date": "1/9"
+      },
+      {
+        "title": "2026 Summer Intern, MBA, Global Supply Manager",
+        "date": "1/9"
+      },
+      {
+        "title": "2026 Summer Intern, MBA, Strategic Finance",
+        "date": "1/9"
+      },
+      {
+        "title": "2026 Summer Intern, MS, Perception",
+        "date": "1/9"
+      },
+      {
+        "title": "2026 Summer Intern, MS/PhD, Compute, Compiler",
+        "date": "1/9"
+      },
+      {
+        "title": "2026 Summer Intern, MS/PhD, Software Engineer, Learned Metrics",
+        "date": "1/9"
+      },
+      {
+        "title": "2026 Summer Intern, MS/PhD, Software Engineer, Planner Reasoning ML/DL",
+        "date": "1/9"
+      },
+      {
+        "title": "2026 Summer Intern, MS/PhD, Software Engineer, Planner Selection",
+        "date": "1/9"
+      },
+      {
+        "title": "2026 Summer Intern, MS/PhD, Software Engineer, Predictive Planner Research",
+        "date": "1/9"
+      },
+      {
+        "title": "2026 Summer Intern, MS/PhD, Systems Engineer, Rider Comfort",
+        "date": "1/9"
+      },
+      {
+        "title": "2026 Summer Intern, PhD, Machine Learning Research, Planning/Prediction",
+        "date": "1/9"
+      },
+      {
+        "title": "2026 Summer Intern, PhD, ML Compilers",
+        "date": "1/9"
+      },
+      {
+        "title": "2026 Summer Intern, PhD, ML Training Infra and Efficiency",
+        "date": "1/9"
+      },
+      {
+        "title": "2026 Summer Intern, PhD, Perception",
+        "date": "1/9"
+      },
+      {
+        "title": "2026 Summer Intern, PhD, Research, 3D/4D Scene Reconstruction and Understanding",
+        "date": "1/9"
+      },
+      {
+        "title": "2026 Summer Intern, PhD, Research, Multimodal Large Language Models",
+        "date": "1/9"
+      },
+      {
+        "title": "2026 Summer Intern, PhD, Research, Perception Foundation Models",
+        "date": "1/9"
+      },
+      {
+        "title": "2026 Summer Intern, PhD, Software Engineer, DUE",
+        "date": "1/9"
+      },
+      {
+        "title": "2026 Summer Intern, PhD, Software Engineer, Predictive Planner ML/DL",
+        "date": "1/9"
+      },
+      {
+        "title": "2026 Summer Intern, PhD, Software Engineer, Release Evaluation",
+        "date": "1/9"
+      },
+      {
+        "title": "2026 Summer Intern, PhD, Software Engineer, Strategic Selection",
+        "date": "1/9"
+      }
+    ],
     "Snap": [
       {
         "title": "Optical Engineer",
@@ -28919,6 +29008,10 @@
       {
         "title": "Graduate Product Manager Intern",
         "date": "1/5"
+      },
+      {
+        "title": "Quality Data Engineering Intern Summer - 2026",
+        "date": "1/9"
       }
     ],
     "Grammarly": [
@@ -36491,6 +36584,14 @@
       },
       {
         "title": "National Geographic Documentary Films Intern, Summer 2026",
+        "date": "1/9"
+      },
+      {
+        "title": "Disney Corporate Creative Resources Digital Production Intern, Summer 2026",
+        "date": "1/9"
+      },
+      {
+        "title": "Disney Corporate Creative Resources UX Design Intern, Summer 2026",
         "date": "1/9"
       }
     ],
