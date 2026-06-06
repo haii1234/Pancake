@@ -23,17 +23,17 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # Bumped from v3
         with:
           persist-credentials: true
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5  # Bumped from v4
         with:
           python-version: "3.12"
 
       - name: Cache pip download cache
-        uses: actions/cache@v3
+        uses: actions/cache@v4  # Bumped from v3
         with:
           path: ~/.cache/pip
           key: ${{ runner.os }}-pip-cache-${{ hashFiles('**/requirements.txt') }}
@@ -81,17 +81,17 @@ jobs:
         run: sleep 300
 
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # Bumped from v3
         with:
           persist-credentials: true
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5  # Bumped from v4
         with:
           python-version: "3.12"
 
       - name: Cache pip download cache
-        uses: actions/cache@v3
+        uses: actions/cache@v4  # Bumped from v3
         with:
           path: ~/.cache/pip
           key: ${{ runner.os }}-pip-cache-${{ hashFiles('**/requirements.txt') }}
