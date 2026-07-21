@@ -66,8 +66,8 @@ def send_email(message: dict, test: bool = False) -> None:
     """Send the notification email."""
     msg = EmailMessage()
     msg["Subject"] = "★ New Opportunity Alert!"
-    msg["From"] = "nicolezcui@gmail.com"
-    msg["To"] = "nicolezcui@gmail.com"
+    msg["From"] = "cui.nicolez@gmail.com"
+    msg["To"] = "cui.nicolez@gmail.com"
     if not test:
         msg["Cc"] = "biancazhg9@gmail.com, huan2137@purdue.edu, 27d.gao@gmail.com, taili.gao@duke.edu"
     html_content = format_message_html(message)
@@ -75,7 +75,7 @@ def send_email(message: dict, test: bool = False) -> None:
     msg.add_alternative(html_content, subtype="html")
 
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
-        smtp.login("nicolezcui@gmail.com", GMAIL_APP_PASSWORD)
+        smtp.login("cui.nicolez@gmail.com", GMAIL_APP_PASSWORD)
         smtp.send_message(msg)
 
 def main() -> None:
