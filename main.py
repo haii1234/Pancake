@@ -67,7 +67,7 @@ def send_email(message: dict, test: bool = False) -> None:
     msg = EmailMessage()
     msg["Subject"] = "★ New Opportunity Alert!"
     msg["From"] = "cui.nicolez@gmail.com"
-    msg["To"] = "cui.nicolez@gmail.com"
+    msg["To"] = "nicolezcui@gmail.com"
     if not test:
         msg["Cc"] = "biancazhg9@gmail.com, huan2137@purdue.edu, 27d.gao@gmail.com, taili.gao@duke.edu"
     html_content = format_message_html(message)
