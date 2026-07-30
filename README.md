@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 21276 roles across 205 companies*
+*Found 21287 roles across 205 companies*
 
 
 <table>
@@ -58961,6 +58961,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.snap.com/jobs?type=Intern"><img src="https://cdn.brandfetch.io/snap.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Snap" height="20" style="vertical-align:middle; margin-right:6px;"> Snap</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Chemistry Intern</div></td>
+  <td>7/30</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#"><img src="https://cdn.brandfetch.io/morganstanley.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Morgan Stanley" height="20" style="vertical-align:middle; margin-right:6px;"> Morgan Stanley</a></div>
 </td>
 
@@ -59121,6 +59129,38 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Recruitment Strategy & Events Coordinator</div></td>
+  <td>7/30</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Trading Operations Analyst Internship: Summer 2027</div></td>
+  <td>7/30</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Recruitment Strategy & Events Coordinator</div></td>
+  <td>7/30</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Trading Operations Analyst Internship: Summer 2027</div></td>
+  <td>7/30</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york"><img src="https://cdn.brandfetch.io/janestreet.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Jane Street" height="20" style="vertical-align:middle; margin-right:6px;"> Jane Street</a></div>
 </td>
 
@@ -59193,6 +59233,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern"><img src="https://cdn.brandfetch.io/siemens.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Siemens" height="20" style="vertical-align:middle; margin-right:6px;"> Siemens</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Principal IAM Engineer - Charlotte, NC - Req ID: 478501</div></td>
+  <td>7/30</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.github.careers/careers-home/jobs?view=search&limit=100&page=1"><img src="https://cdn.brandfetch.io/github.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Github" height="20" style="vertical-align:middle; margin-right:6px;"> Github</a></div>
 </td>
 
@@ -59205,6 +59253,22 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Warehouse Supervisor (Robotics & Operations)</div></td>
+  <td>7/30</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.workable.com/huggingface/?not_found=true#jobs"><img src="https://cdn.brandfetch.io/huggingface.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Hugging Face" height="20" style="vertical-align:middle; margin-right:6px;"> Hugging Face</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Low-level Senior Software Engineer, Xet Storage - US Remote</div></td>
+  <td>7/30</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.workable.com/huggingface/?not_found=true#jobs"><img src="https://cdn.brandfetch.io/huggingface.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Hugging Face" height="20" style="vertical-align:middle; margin-right:6px;"> Hugging Face</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Low-level Senior Software Engineer, Xet Storage - EMEA Remote</div></td>
   <td>7/30</td>
 </tr>
   <tr>
@@ -59237,6 +59301,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Cloud Media Services Intern 105781</div></td>
+  <td>7/30</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.point72.com/?experience=internships"><img src="https://cdn.brandfetch.io/point72.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Point72" height="20" style="vertical-align:middle; margin-right:6px;"> Point72</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Corporate Access Analyst (fixed term) – Japanese Speaking</div></td>
   <td>7/30</td>
 </tr>
   <tr>
@@ -59293,6 +59365,22 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Customer Service Intern</div></td>
+  <td>7/30</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings">Mitsubishi Electric Research Laboratories</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">CA0310: Internship - Perception and Coordination for Heterogeneous Robots</div></td>
+  <td>7/30</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/skildai-careers"><img src="https://cdn.brandfetch.io/skildai.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Skild AI" height="20" style="vertical-align:middle; margin-right:6px;"> Skild AI</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Writer</div></td>
   <td>7/30</td>
 </tr>
   <tr>
