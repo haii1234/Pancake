@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 21287 roles across 205 companies*
+*Found 21288 roles across 205 companies*
 
 
 <table>
@@ -59317,6 +59317,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">HP SitePrint - Segment Management Internship</div></td>
+  <td>7/30</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/drweng?departments%5B%5D=87404"><img src="https://cdn.brandfetch.io/drw.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="DRW" height="20" style="vertical-align:middle; margin-right:6px;"> DRW</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Platform Engineer InternNew</div></td>
   <td>7/30</td>
 </tr>
   <tr>
