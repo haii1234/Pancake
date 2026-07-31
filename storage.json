@@ -53047,6 +53047,10 @@
       {
         "title": "Business Product Intern",
         "date": "7/21"
+      },
+      {
+        "title": "The Public Relations Intern (Corporate Communications)",
+        "date": "7/31"
       }
     ],
     "Qualcomm": [
@@ -53994,7 +53998,16 @@
         "date": "7/30"
       }
     ],
-    "Comcast": [],
+    "Comcast": [
+      {
+        "title": "Marketing Intern",
+        "date": "7/31"
+      },
+      {
+        "title": "Intern, Special Events & Hospitality",
+        "date": "7/31"
+      }
+    ],
     "HP": [
       {
         "title": "Industrial Engineering - Internship",
@@ -78022,6 +78035,14 @@
       {
         "title": "Maintenance and Reliability Engineer",
         "date": "7/30"
+      },
+      {
+        "title": "Senior AI Research Scientist- Time-Series Foundational Models",
+        "date": "7/31"
+      },
+      {
+        "title": "Buyer- Purchasing",
+        "date": "7/31"
       }
     ],
     "Intrinsic": [
