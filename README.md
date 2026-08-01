@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 21328 roles across 205 companies*
+*Found 21329 roles across 205 companies*
 
 
 <table>
@@ -57957,6 +57957,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">C# Developer \| Event Trading \| Experienced Hire</div></td>
+  <td>8/1</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern"><img src="https://cdn.brandfetch.io/adobe.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Adobe" height="20" style="vertical-align:middle; margin-right:6px;"> Adobe</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2027 Intern - Adobe Sales Academy BDR</div></td>
   <td>8/1</td>
 </tr>
   <tr>
