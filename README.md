@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 21551 roles across 205 companies*
+*Found 21552 roles across 205 companies*
 
 
 <table>
@@ -56629,6 +56629,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Principal Structures Engineer – EASA Part 21J (m/f/d)</div></td>
+  <td>8/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://brightpick.ai/careers/#openpositions"><img src="https://cdn.brandfetch.io/brightpick.ai/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Brightpick" height="20" style="vertical-align:middle; margin-right:6px;"> Brightpick</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Field Technician [Broomfield, CO]</div></td>
   <td>8/6</td>
 </tr>
   <tr>
