@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 21779 roles across 205 companies*
+*Found 21783 roles across 205 companies*
 
 
 <table>
@@ -55569,6 +55569,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.comcast.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.InternRotational%22,%22value%22:%22Intern%22%7D]"><img src="https://cdn.brandfetch.io/metrological.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Comcast" height="20" style="vertical-align:middle; margin-right:6px;"> Comcast</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Community Relations Intern</div></td>
+  <td>8/12</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://search-careers.gm.com/en/jobs/?search=&country=United+States+of+America&team=Students+%26+Recent+Graduates&pagesize=100#results"><img src="https://cdn.brandfetch.io/gm.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="General Motors" height="20" style="vertical-align:middle; margin-right:6px;"> General Motors</a></div>
 </td>
 
@@ -55601,6 +55609,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Sourcer - HYBRID — FULL-TIMEFOSTER CITY, CA / SAN DIEGO, CA</div></td>
+  <td>8/12</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.mitre.org/us/en/search-results?keywords=student"><img src="https://cdn.brandfetch.io/mitre.org/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Mitre" height="20" style="vertical-align:middle; margin-right:6px;"> Mitre</a></div>
 </td>
 
@@ -55621,6 +55637,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Applied Mathematician--Communications, Navigation, and Timing Engineering (PhD Preferred)</div></td>
+  <td>8/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.mitre.org/us/en/search-results?keywords=student"><img src="https://cdn.brandfetch.io/mitre.org/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Mitre" height="20" style="vertical-align:middle; margin-right:6px;"> Mitre</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Associate Modeling and Simulation Engineer</div></td>
   <td>8/12</td>
 </tr>
   <tr>
@@ -55653,6 +55677,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">PCB Design EngineerNew</div></td>
+  <td>8/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/glydways/"><img src="https://cdn.brandfetch.io/glydways.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Glydways" height="20" style="vertical-align:middle; margin-right:6px;"> Glydways</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Studio Engineer</div></td>
   <td>8/12</td>
 </tr>
   <tr>
