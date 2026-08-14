@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 21918 roles across 205 companies*
+*Found 21925 roles across 205 companies*
 
 
 <table>
@@ -53809,6 +53809,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://intel.wd1.myworkdayjobs.com/External?workerSubType=dc8bf79476611087dfde99931439ae75&locations=1e4a4eb3adf10118b1dfe877bf8162d0"><img src="https://cdn.brandfetch.io/intel.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intel" height="20" style="vertical-align:middle; margin-right:6px;"> Intel</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Physical Design Engineering Graduate Intern</div></td>
+  <td>8/14</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.citadel.com/careers/open-opportunities?experience-filter=internships&location-filter=americas,chicago,greenwich,houston,miami,new-york&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter"><img src="https://cdn.brandfetch.io/citadel.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Citadel" height="20" style="vertical-align:middle; margin-right:6px;"> Citadel</a></div>
 </td>
 
@@ -54013,6 +54021,30 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Consulting - Intern Security Consultant 2027 - Internship - Chicago, US</div></td>
+  <td>8/14</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Consulting - Co-Op Security Consultant 2027 - Internship - University Park, US</div></td>
+  <td>8/14</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Consulting - Consultant Intern – SAP 2027 - Internship - Multiple Cities</div></td>
+  <td>8/14</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Consulting - Co-Op Security Consultant 2027 - Internship - University Park, US</div></td>
   <td>8/14</td>
 </tr>
   <tr>
@@ -54273,6 +54305,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://razer.wd3.myworkdayjobs.com/Careers?jobFamilyGroup=5f89d961603401a62553f98eab0c3255"><img src="https://cdn.brandfetch.io/razer.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Razer" height="20" style="vertical-align:middle; margin-right:6px;"> Razer</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">CA Operations Intern</div></td>
+  <td>8/14</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.docusign.com/jobs?tags1=Intern&limit=100&page=1"><img src="https://cdn.brandfetch.io/docusign.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Docusign" height="20" style="vertical-align:middle; margin-right:6px;"> Docusign</a></div>
 </td>
 
@@ -54341,6 +54381,22 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior/Staff Design Reliability Engineer – Sensor, Compute and EE Systems - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>8/14</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Manager, Software Tools Development - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>8/14</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Contract Student Worker - Machine Learning Engineer - Data Mining & VLM (Full-time) - HYBRID — CONTRACTFOSTER CITY, CA</div></td>
   <td>8/14</td>
 </tr>
   <tr>
