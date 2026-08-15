@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 21957 roles across 205 companies*
+*Found 21962 roles across 205 companies*
 
 
 <table>
@@ -53305,6 +53305,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.bankofamerica.com/en-us/students/job-search?ref=search&rows=24&search=jobsByLocation&searchstring=United+States"><img src="https://cdn.brandfetch.io/bankofamerica.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bank of America" height="20" style="vertical-align:middle; margin-right:6px;"> Bank of America</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Global Investment Banking Summer Associate Program - 2027</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#"><img src="https://cdn.brandfetch.io/morganstanley.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Morgan Stanley" height="20" style="vertical-align:middle; margin-right:6px;"> Morgan Stanley</a></div>
 </td>
 
@@ -53445,6 +53453,22 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">TOOL & DIE SPECIALIST - 2ND SHIFT</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data & Analytics - Intern Data Engineers - AI & Analytics - 2027 - Internship - MONROE, US</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data & Analytics - Intern Data Engineers - AI & Analytics - 2027 - Internship - BATON ROUGE, US</div></td>
   <td>8/15</td>
 </tr>
   <tr>
@@ -53629,6 +53653,22 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Director, Technical Account Managers (EDA) - Fremont, CA - Work Type:Hybrid - Job Family:Sales - Req ID:473123 - Single job with flexible work locations</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern"><img src="https://cdn.brandfetch.io/siemens.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Siemens" height="20" style="vertical-align:middle; margin-right:6px;"> Siemens</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Development Engineer - Contact Mechanics - Burlington, IL - Req ID: 515844</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern"><img src="https://cdn.brandfetch.io/siemens.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Siemens" height="20" style="vertical-align:middle; margin-right:6px;"> Siemens</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Development Engineer - Contact Mechanics - Orlando, FL - Req ID: 515844</div></td>
   <td>8/15</td>
 </tr>
   <tr>
