@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 21968 roles across 205 companies*
+*Found 21969 roles across 205 companies*
 
 
 <table>
@@ -53118,6 +53118,14 @@
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">C# Software Engineer \| ESS \| Experienced Hire</div></td>
   <td>8/17</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#"><img src="https://cdn.brandfetch.io/morganstanley.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Morgan Stanley" height="20" style="vertical-align:middle; margin-right:6px;"> Morgan Stanley</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2027 Finance Summer Analyst Program (Hong Kong)</div></td>
+  <td>8/16</td>
 </tr>
   <tr>
   <td>
