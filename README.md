@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 22010 roles across 205 companies*
+*Found 22011 roles across 205 companies*
 
 
 <table>
@@ -53054,6 +53054,14 @@
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">ISS Countermeasures System Project Manager</div></td>
   <td>8/18</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#"><img src="https://cdn.brandfetch.io/morganstanley.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Morgan Stanley" height="20" style="vertical-align:middle; margin-right:6px;"> Morgan Stanley</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2027 Corporate Treasury Summer Analyst Program (New York)</div></td>
+  <td>8/17</td>
 </tr>
   <tr>
   <td>
