@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 21978 roles across 205 companies*
+*Found 21979 roles across 205 companies*
 
 
 <table>
@@ -53061,6 +53061,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">LEAD EQUIPMENT RELIABILITY ENGINEER (STARSHIP)</div></td>
+  <td>8/17</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.rivian.com/careers-home/jobs?sortBy=relevance&page=1&categories=Internships"><img src="https://cdn.brandfetch.io/rivian.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rivian" height="20" style="vertical-align:middle; margin-right:6px;"> Rivian</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">UIUC Research Park Intern - FPGA Design</div></td>
   <td>8/17</td>
 </tr>
   <tr>
