@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 22023 roles across 205 companies*
+*Found 22024 roles across 205 companies*
 
 
 <table>
@@ -53525,6 +53525,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manufacturing EngineerNew</div></td>
+  <td>8/17</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/phantomai/"><img src="https://cdn.brandfetch.io/phantom.ai/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Phantom AI" height="20" style="vertical-align:middle; margin-right:6px;"> Phantom AI</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior/Staff System Software Engineer — ADAS Vision Platform</div></td>
   <td>8/17</td>
 </tr>
   <tr>
