@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 22348 roles across 205 companies*
+*Found 22351 roles across 205 companies*
 
 
 <table>
@@ -51777,6 +51777,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://neuralink.com/careers/"><img src="https://cdn.brandfetch.io/neuralink.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Neuralink" height="20" style="vertical-align:middle; margin-right:6px;"> Neuralink</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mechanical Engineering Intern, Robotics and Surgery Engineering - South San Francisco</div></td>
+  <td>8/21</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.github.careers/careers-home/jobs?view=search&limit=100&page=1"><img src="https://cdn.brandfetch.io/github.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Github" height="20" style="vertical-align:middle; margin-right:6px;"> Github</a></div>
 </td>
 
@@ -52009,6 +52017,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Logistics Support Representative (Junior - Middle level) Tsuyama, Japan</div></td>
+  <td>8/21</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/drweng?departments%5B%5D=87404"><img src="https://cdn.brandfetch.io/drw.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="DRW" height="20" style="vertical-align:middle; margin-right:6px;"> DRW</a></div>
 </td>
 
@@ -52069,6 +52085,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Supplier Quality Engineer - Powertrain - ON-SITE — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>8/21</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff/Senior Staff Software Engineer - Full Stack - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
   <td>8/21</td>
 </tr>
   <tr>
