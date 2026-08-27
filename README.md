@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 22663 roles across 205 companies*
+*Found 22667 roles across 205 companies*
 
 
 <table>
@@ -49349,6 +49349,38 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Student in Future Flight Operations Research (Mandatory Internship/Bachelor/Master Thesis) m/f/d</div></td>
+  <td>8/27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Signal Integrity and Power Integrity Engineer (SI/PI) - ON-SITE — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>8/27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.bosch.com/en?pages=5&country=us&positionTypes=f524b939-fe55-407b-a0b0-e8f4eec28997%2C8c682ec0-3d28-4e52-b53b-c63d440a32d3%2Cf3b92bc1-600d-4d33-9115-5aa27785f52b%2Ce4a3c0db-920d-4356-8ce0-c0b44a54e497#"><img src="https://cdn.brandfetch.io/bosch.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Bosch" height="20" style="vertical-align:middle; margin-right:6px;"> Bosch</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Run Tester - 1st and 2nd Shift</div></td>
+  <td>8/27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.bosch.com/en?pages=5&country=us&positionTypes=f524b939-fe55-407b-a0b0-e8f4eec28997%2C8c682ec0-3d28-4e52-b53b-c63d440a32d3%2Cf3b92bc1-600d-4d33-9115-5aa27785f52b%2Ce4a3c0db-920d-4356-8ce0-c0b44a54e497#"><img src="https://cdn.brandfetch.io/bosch.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Bosch" height="20" style="vertical-align:middle; margin-right:6px;"> Bosch</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">PCDC Operator - 1st Shift</div></td>
+  <td>8/27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/nerostechnologies/"><img src="https://cdn.brandfetch.io/nerostechnologies.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Neros Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Neros Technologies</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Executive AssistantNew</div></td>
   <td>8/27</td>
 </tr>
   <tr>
