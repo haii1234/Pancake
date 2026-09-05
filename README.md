@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 23150 roles across 205 companies*
+*Found 23151 roles across 205 companies*
 
 
 <table>
@@ -44309,6 +44309,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">BARISTA - TEMPORARY</div></td>
+  <td>9/5</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research - Quantum Hardware EDA & Circuit Design Intern - 2027 - Internship - Yorktown Heights, US</div></td>
   <td>9/5</td>
 </tr>
   <tr>
