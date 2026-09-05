@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 23149 roles across 205 companies*
+*Found 23150 roles across 205 companies*
 
 
 <table>
@@ -44389,6 +44389,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Strategic Student Program: Integration QA Co-op (Spring 2026; EBS) - Huntsville, AL - Req ID:476479</div></td>
+  <td>9/5</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern"><img src="https://cdn.brandfetch.io/siemens.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Siemens" height="20" style="vertical-align:middle; margin-right:6px;"> Siemens</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Strategic Student Program: Electronics Software Engineering Intern - Digital Component Specifications (EBS, Spring 2027) - Huntsville, AL - Req ID: 520645</div></td>
   <td>9/5</td>
 </tr>
   <tr>
