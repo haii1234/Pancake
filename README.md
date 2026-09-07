@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 23189 roles across 205 companies*
+*Found 23190 roles across 205 companies*
 
 
 <table>
@@ -43973,6 +43973,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Finance Lead</div></td>
+  <td>9/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/c3ascend"><img src="https://cdn.brandfetch.io/c3pa.net/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="C3" height="20" style="vertical-align:middle; margin-right:6px;"> C3</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer - Intern (Summer 2027)</div></td>
   <td>9/7</td>
 </tr>
   <tr>
