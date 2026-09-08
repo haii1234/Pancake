@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 23245 roles across 205 companies*
+*Found 23256 roles across 205 companies*
 
 
 <table>
@@ -42921,6 +42921,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&"><img src="https://cdn.brandfetch.io/amazon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Business Strategy & Execution Operations Engineering Intern Spring and Summer 2027 (Bellevue, WA )</div></td>
+  <td>9/8</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://autodesk.wd1.myworkdayjobs.com/uni?jobFamilyGroup=f909d7cccc2d480b8f6af996c7bf8352&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/autodesk.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Autodesk" height="20" style="vertical-align:middle; margin-right:6px;"> Autodesk</a></div>
 </td>
 
@@ -42941,6 +42949,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Systems Quality Assurance I (Co-Op) United States</div></td>
+  <td>9/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.twosigma.com/careers/OpenRoles/?5086=%5B16718737%5D&5086_format=3149&listFilterMode=1&jobRecordsPerPage=10&"><img src="https://cdn.brandfetch.io/twosigma.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="TwoSigma" height="20" style="vertical-align:middle; margin-right:6px;"> TwoSigma</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineering Internship (Summer 2027)</div></td>
   <td>9/8</td>
 </tr>
   <tr>
@@ -43341,6 +43357,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mechanical Engineering Intern</div></td>
+  <td>9/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.verkada.com/careers/"><img src="https://cdn.brandfetch.io/verkada.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Verkada" height="20" style="vertical-align:middle; margin-right:6px;"> Verkada</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Support Engineering Intern - Spring 2027 - San Mateo, CA United States</div></td>
   <td>9/8</td>
 </tr>
   <tr>
@@ -43889,6 +43913,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Lucasfilm Games Production Intern, Spring 2027</div></td>
+  <td>9/8</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.leidos.com/pages/intern-jobs?ns_landing_page_jobs=/search/job-level/intern/jobs/in/country/united-states?ns_landing_page=1"><img src="https://cdn.brandfetch.io/leidos.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Leidos" height="20" style="vertical-align:middle; margin-right:6px;"> Leidos</a></div>
 </td>
 
@@ -44017,6 +44049,22 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://search-careers.gm.com/en/jobs/?search=&country=United+States+of+America&team=Students+%26+Recent+Graduates&pagesize=100#results"><img src="https://cdn.brandfetch.io/gm.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="General Motors" height="20" style="vertical-align:middle; margin-right:6px;"> General Motors</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2027 Summer Intern - GM Fleet Marketing and Sales Enablement Intern</div></td>
+  <td>9/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://search-careers.gm.com/en/jobs/?search=&country=United+States+of+America&team=Students+%26+Recent+Graduates&pagesize=100#results"><img src="https://cdn.brandfetch.io/gm.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="General Motors" height="20" style="vertical-align:middle; margin-right:6px;"> General Motors</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2027 Summer Intern – OnStar Super Cruise Monetization Intern</div></td>
+  <td>9/8</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
 </td>
 
@@ -44045,6 +44093,38 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Plant Supplier Quality Engineer - ON-SITE — FULL-TIMEHAYWARD, CA</div></td>
+  <td>9/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior/Staff Technical Program Manager - Compute Hardware - ON-SITE — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>9/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Contract Student Worker – Firmware Engineer (FW Thermal/Body) - HYBRID — CONTRACTFOSTER CITY, CA / SAN DIEGO, CA / SEATTLE, WA</div></td>
+  <td>9/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Program Manager, EE Systems - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>9/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Trim & Lighting Engineer - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
   <td>9/8</td>
 </tr>
   <tr>
@@ -44269,6 +44349,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Lead Autonomous Vehicle Engineering TechnicianNew</div></td>
+  <td>9/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.impulsespace.com/careers"><img src="https://cdn.brandfetch.io/impulsespace.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Impulse Space" height="20" style="vertical-align:middle; margin-right:6px;"> Impulse Space</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manager, Spacecraft Vehicle Engineering</div></td>
   <td>9/8</td>
 </tr>
   <tr>
