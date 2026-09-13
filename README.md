@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 23521 roles across 205 companies*
+*Found 23522 roles across 205 companies*
 
 
 <table>
@@ -39646,6 +39646,14 @@
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">MN Operations Manufacturing Intern 2026</div></td>
   <td>9/14</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">PhD Research Intern, Circuits - 2027</div></td>
+  <td>9/13</td>
 </tr>
   <tr>
   <td>
