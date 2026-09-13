@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 23522 roles across 205 companies*
+*Found 23524 roles across 205 companies*
 
 
 <table>
@@ -39657,6 +39657,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">PhD Research Intern, Autonomous Systems and Physical AI Research - 2027</div></td>
+  <td>9/13</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.splunk.com/en_us/careers/search-jobs.html?page=1&type=Intern"><img src="https://cdn.brandfetch.io/splunk.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Splunk" height="20" style="vertical-align:middle; margin-right:6px;"> Splunk</a></div>
 </td>
 
@@ -39821,6 +39829,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Strategic Student Program: Sustainability Center of Competence Intern (SUS, Spring 2026) - Maryland Heights, MO - Work Type:Remote - Req ID:478223</div></td>
+  <td>9/13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Disney Live Entertainment Audio Systems Design Intern, Spring 2027</div></td>
   <td>9/13</td>
 </tr>
   <tr>
