@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 23524 roles across 205 companies*
+*Found 23525 roles across 205 companies*
 
 
 <table>
@@ -39829,6 +39829,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Strategic Student Program: Sustainability Center of Competence Intern (SUS, Spring 2026) - Maryland Heights, MO - Work Type:Remote - Req ID:478223</div></td>
+  <td>9/13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://bostonscientific.eightfold.ai/careers?start=0&location=United+States&pid=563602797912246&sort_by=distance&filter_include_remote=1&filter_seniority=Intern"><img src="https://cdn.brandfetch.io/bostonscientific.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boston Scientific" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Scientific</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineering Internship</div></td>
   <td>9/13</td>
 </tr>
   <tr>
