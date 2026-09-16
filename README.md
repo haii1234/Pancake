@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 23743 roles across 205 companies*
+*Found 23770 roles across 205 companies*
 
 
 <table>
@@ -38129,6 +38129,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">PhD Research Intern, Fundamental Generative AI - 2027</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&src=Online%2FGoogle%20Website%2FByF&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&location=United%20States"><img src="https://cdn.brandfetch.io/google.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Google" height="20" style="vertical-align:middle; margin-right:6px;"> Google</a></div>
 </td>
 
@@ -38329,6 +38337,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Enterprise Operations - 2027 Incentives Professional Intern - Internship - Armonk, US</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?lastSelectedFacet=TITLES&location=United+States&locationId=300000000480126&locationLevel=country&mode=location&selectedTitlesFacet=TRA"><img src="https://cdn.brandfetch.io/nokia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nokia" height="20" style="vertical-align:middle; margin-right:6px;"> Nokia</a></div>
 </td>
 
@@ -38401,10 +38417,66 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Database Administrator - Postgres \| Experienced Hire</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Database Administrator - Postgres \| Experienced Hire</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.databricks.com/company/careers/open-positions?department=University%20Recruiting&location=all"><img src="https://cdn.brandfetch.io/databricks.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Databricks" height="20" style="vertical-align:middle; margin-right:6px;"> Databricks</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineering Intern (2026) - Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.oracle.com/en/sites/jobsearch/jobs?lastSelectedFacet=locations&selectedLocationsFacet=300000000106749%3B300000000149325&selectedFlexFieldsFacets=%22AttributeChar14%7CSDR%22"><img src="https://cdn.brandfetch.io/oracle.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Oracle" height="20" style="vertical-align:middle; margin-right:6px;"> Oracle</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sales Development Representative - Burlington - June 2027</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.oracle.com/en/sites/jobsearch/jobs?lastSelectedFacet=locations&selectedLocationsFacet=300000000106749%3B300000000149325&selectedFlexFieldsFacets=%22AttributeChar14%7CSDR%22"><img src="https://cdn.brandfetch.io/oracle.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Oracle" height="20" style="vertical-align:middle; margin-right:6px;"> Oracle</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sales Development Representative - Santa Monica - June 2027</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.oracle.com/en/sites/jobsearch/jobs?lastSelectedFacet=locations&selectedLocationsFacet=300000000106749%3B300000000149325&selectedFlexFieldsFacets=%22AttributeChar14%7CSDR%22"><img src="https://cdn.brandfetch.io/oracle.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Oracle" height="20" style="vertical-align:middle; margin-right:6px;"> Oracle</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sales Development Representative - Denver - June 2027</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.oracle.com/en/sites/jobsearch/jobs?lastSelectedFacet=locations&selectedLocationsFacet=300000000106749%3B300000000149325&selectedFlexFieldsFacets=%22AttributeChar14%7CSDR%22"><img src="https://cdn.brandfetch.io/oracle.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Oracle" height="20" style="vertical-align:middle; margin-right:6px;"> Oracle</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sales Development Representative - Austin - June 2027</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.oracle.com/en/sites/jobsearch/jobs?lastSelectedFacet=locations&selectedLocationsFacet=300000000106749%3B300000000149325&selectedFlexFieldsFacets=%22AttributeChar14%7CSDR%22"><img src="https://cdn.brandfetch.io/oracle.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Oracle" height="20" style="vertical-align:middle; margin-right:6px;"> Oracle</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sales Development Representative - Nashville - June 2027</div></td>
   <td>9/16</td>
 </tr>
   <tr>
@@ -38721,6 +38793,38 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">WLS-TV (ABC7) Programming, Promotion & Publicity Intern, Spring 2027</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">WLS-TV (ABC7) News Intern, Spring 2027</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">WLS-TV (ABC7) I-Team Consumer & News Anchor Intern, Spring 2027</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Global Travel & Expense Intern, Spring 2027</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.leidos.com/pages/intern-jobs?ns_landing_page_jobs=/search/job-level/intern/jobs/in/country/united-states?ns_landing_page=1"><img src="https://cdn.brandfetch.io/leidos.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Leidos" height="20" style="vertical-align:middle; margin-right:6px;"> Leidos</a></div>
 </td>
 
@@ -38977,6 +39081,38 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Boeing - Wichita Summer 2027 Internship Program (Paid) - Supply Chain Management</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Boeing - Wichita Summer 2027 Internship Program (Paid) - Fabrication Process Improvement & Analytics</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Boeing - Wichita Summer 2027 Internship Program (Paid) - Human Resources</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Boeing - Wichita Summer 2027 Internship Program (Paid) - Logistics</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/kodiak?departments%5B%5D=4004934009"><img src="https://cdn.brandfetch.io/kodiak-outdoor.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Kodiak Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Kodiak Robotics</a></div>
 </td>
 
@@ -39089,6 +39225,78 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/rocketlab?keyword=intern"><img src="https://cdn.brandfetch.io/rocketlabcorp.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="RocketLab" height="20" style="vertical-align:middle; margin-right:6px;"> RocketLab</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Propulsion Analyst Intern Spring 2027New</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/rocketlab?keyword=intern"><img src="https://cdn.brandfetch.io/rocketlabcorp.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="RocketLab" height="20" style="vertical-align:middle; margin-right:6px;"> RocketLab</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Propulsion Analyst Intern Summer 2027New</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/rocketlab?keyword=intern"><img src="https://cdn.brandfetch.io/rocketlabcorp.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="RocketLab" height="20" style="vertical-align:middle; margin-right:6px;"> RocketLab</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manufacturing Engineering Intern Spring 2027New</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/rocketlab?keyword=intern"><img src="https://cdn.brandfetch.io/rocketlabcorp.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="RocketLab" height="20" style="vertical-align:middle; margin-right:6px;"> RocketLab</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manufacturing Engineering Intern Summer 2027New</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/rocketlab?keyword=intern"><img src="https://cdn.brandfetch.io/rocketlabcorp.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="RocketLab" height="20" style="vertical-align:middle; margin-right:6px;"> RocketLab</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manufacturing Engineering Intern Spring 2027New</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/rocketlab?keyword=intern"><img src="https://cdn.brandfetch.io/rocketlabcorp.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="RocketLab" height="20" style="vertical-align:middle; margin-right:6px;"> RocketLab</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manufacturing Engineering Intern Summer 2027New</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/rocketlab?keyword=intern"><img src="https://cdn.brandfetch.io/rocketlabcorp.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="RocketLab" height="20" style="vertical-align:middle; margin-right:6px;"> RocketLab</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Security Analyst Intern Spring 2027New</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/rocketlab?keyword=intern"><img src="https://cdn.brandfetch.io/rocketlabcorp.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="RocketLab" height="20" style="vertical-align:middle; margin-right:6px;"> RocketLab</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Security Analyst Intern Spring 2027New</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/skildai-careers"><img src="https://cdn.brandfetch.io/skildai.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Skild AI" height="20" style="vertical-align:middle; margin-right:6px;"> Skild AI</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Electrical Engineer</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
 </td>
 
@@ -39109,6 +39317,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior/Staff Software Engineer - SRE, GitHub & CI/CD Infrastructure - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Financial Analyst, Revenue and Commercial - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
   <td>9/16</td>
 </tr>
   <tr>
