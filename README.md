@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 23906 roles across 205 companies*
+*Found 23907 roles across 205 companies*
 
 
 <table>
@@ -36541,6 +36541,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Boeing Technology Innovation - Graduate Researcher Program – Boeing Commercial Airplanes (BCA) Computational Geometry Mathematician Intern</div></td>
+  <td>9/19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings"><img src="https://cdn.brandfetch.io/mitsubishi-motors.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Mitsubishi Electric Research Laboratories" height="20" style="vertical-align:middle; margin-right:6px;"> Mitsubishi Electric Research Laboratories</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">OR0329: Internship - Robotic Disassembly</div></td>
   <td>9/19</td>
 </tr>
   <tr>
