@@ -1124,6 +1124,10 @@
       {
         "title": "PhD Research Intern, Learning Embodied Skills from Human Data - 2027",
         "date": "9/21"
+      },
+      {
+        "title": "Product Design Intern, AI Infrastructure - Summer 2027",
+        "date": "9/22"
       }
     ],
     "AWS": [
@@ -10250,6 +10254,10 @@
       {
         "title": "Software Engineering Internship (Summer 2027)",
         "date": "9/8"
+      },
+      {
+        "title": "TSS Hardware Engineering Internship (Summer 2027)",
+        "date": "9/22"
       }
     ],
     "Waymo": [
@@ -13746,6 +13754,18 @@
       {
         "title": "Machine Learning Intern, 2027 Summer U.S.",
         "date": "9/17"
+      },
+      {
+        "title": "Customer Engagement Marketing Intern, 2027 Summer U.S.",
+        "date": "9/22"
+      },
+      {
+        "title": "Marketing Business Operations Intern, 2027 Summer U.S.",
+        "date": "9/22"
+      },
+      {
+        "title": "AI Demand Intelligence Intern, 2027 Summer U.S.",
+        "date": "9/22"
       }
     ],
     "Datadog": [
@@ -30211,6 +30231,10 @@
       {
         "title": "Research - Quantum Error Correction Theory Intern - 2027 - Internship - Yorktown Heights, US",
         "date": "9/21"
+      },
+      {
+        "title": "Infrastructure & Technology - Quantum Network Engineer Intern 2027 - Internship - Yorktown Heights, US",
+        "date": "9/22"
       }
     ],
     "Nokia": [
@@ -49270,6 +49294,10 @@
       {
         "title": "Software Engineering Intern - Winter '27 - San Francisco",
         "date": "9/8"
+      },
+      {
+        "title": "Software Engineer, Internal Agent - San Francisco",
+        "date": "9/22"
       }
     ],
     "Verizon": [
@@ -54437,6 +54465,18 @@
       },
       {
         "title": "FX Original Programming Intern, Spring 2027",
+        "date": "9/22"
+      },
+      {
+        "title": "FX Production & Special Projects Intern, Spring 2027",
+        "date": "9/22"
+      },
+      {
+        "title": "Global Security Investigations Intern, Spring 2027",
+        "date": "9/22"
+      },
+      {
+        "title": "Infrastructure Engineering Intern, Spring 2027",
         "date": "9/22"
       }
     ],
@@ -60874,6 +60914,30 @@
       {
         "title": "Associate Buyer Internship - Minneapolis, MN (Starting Summer, 2027)",
         "date": "9/11"
+      },
+      {
+        "title": "Store Executive Intern (Store Leadership Intern) - D.C & Maryland (Starting Summer 2027)",
+        "date": "9/22"
+      },
+      {
+        "title": "Store Executive Intern (Store Leadership Intern) - New Jersey (Starting Summer 2027)",
+        "date": "9/22"
+      },
+      {
+        "title": "Store Executive Intern (Store Leadership Intern) - Virginia (Starting Summer 2027)",
+        "date": "9/22"
+      },
+      {
+        "title": "Store Executive Intern (Store Leadership Intern) - New York City, NY (Starting Summer 2027)",
+        "date": "9/22"
+      },
+      {
+        "title": "Store Executive Intern (Store Leadership Intern) - Central Pennsylvania (Starting Summer 2027)",
+        "date": "9/22"
+      },
+      {
+        "title": "Store Executive Intern (Store Leadership Intern) - Long Island, NY (Starting Summer 2027)",
+        "date": "9/22"
       }
     ],
     "Amentum": [
@@ -63682,6 +63746,10 @@
       {
         "title": "Supply Chain Intern",
         "date": "9/21"
+      },
+      {
+        "title": "Manufacturing Engineering Internship",
+        "date": "9/22"
       }
     ],
     "DRW": [
@@ -79087,6 +79155,18 @@
       {
         "title": "Engineering Manager, Middleware Transport - ON-SITE \u2014 FULL-TIMEFOSTER CITY, CA",
         "date": "9/21"
+      },
+      {
+        "title": "Senior Sensor Hardware Functional Safety Engineer - HYBRID \u2014 FULL-TIMEFOSTER CITY, CA",
+        "date": "9/22"
+      },
+      {
+        "title": "Lead AI Engineer \u2013 Enterprise, Data & AI - HYBRID \u2014 FULL-TIMEFOSTER CITY, CA",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior Software Engineer, Continuous Integration - HYBRID \u2014 FULL-TIMEFOSTER CITY, CA",
+        "date": "9/22"
       }
     ],
     "Pony.ai": [
@@ -81438,6 +81518,10 @@
       {
         "title": "Mechanical Engineering & System Packaging Intern (Summer 2027)",
         "date": "9/21"
+      },
+      {
+        "title": "Electrical Engineering Co-Op (Spring 2027)",
+        "date": "9/22"
       }
     ],
     "Mitre": [
@@ -81788,6 +81872,10 @@
       {
         "title": "Software Systems Engineering Intern",
         "date": "9/18"
+      },
+      {
+        "title": "Computer and Data Science Intern",
+        "date": "9/22"
       }
     ],
     "Aeva": [
@@ -87619,6 +87707,18 @@
       },
       {
         "title": "Manufacturing Tooling Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Paint Line Attendant, 1st Shift",
+        "date": "9/22"
+      },
+      {
+        "title": "Resident Engineer - Application",
+        "date": "9/22"
+      },
+      {
+        "title": "Project Manager - Assembly Technology",
         "date": "9/22"
       }
     ],
@@ -93889,6 +93989,10 @@
       {
         "title": "Localization Systems Engineer",
         "date": "9/21"
+      },
+      {
+        "title": "Senior/Staff Verification & Validation Engineer",
+        "date": "9/22"
       }
     ],
     "Scythe Robotics": [],
