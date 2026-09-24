@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 24113 roles across 205 companies*
+*Found 24123 roles across 205 companies*
 
 
 <table>
@@ -33889,6 +33889,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ea.com/en_US/careers/Home/?8171=%5B10618%5D&8171_format=5683&4537=%5B8693%5D&4537_format=3020&listFilterMode=1&jobRecordsPerPage=20&"><img src="https://cdn.brandfetch.io/ea.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="EA" height="20" style="vertical-align:middle; margin-right:6px;"> EA</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">VFX Intern</div></td>
+  <td>9/24</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.intuit.com/search-jobs/interns/"><img src="https://cdn.brandfetch.io/intuit.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intuit" height="20" style="vertical-align:middle; margin-right:6px;"> Intuit</a></div>
 </td>
 
@@ -34145,6 +34153,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://corporate.target.com/careers/job-search?referral=job-search-link&currentPage=1&jobAreas=Internships&profiles=Arrows%20Manager%7C%7CEntry%20Level&filtercondition=or"><img src="https://cdn.brandfetch.io/target.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Target" height="20" style="vertical-align:middle; margin-right:6px;"> Target</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Store Executive Intern (Store Leadership Intern) – Cookeville, TN (Starting Summer 2027)</div></td>
+  <td>9/24</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
 </td>
 
@@ -34193,6 +34209,30 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/rocketlab?keyword=intern"><img src="https://cdn.brandfetch.io/rocketlabcorp.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="RocketLab" height="20" style="vertical-align:middle; margin-right:6px;"> RocketLab</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Systems Engineering Intern Summer 2027</div></td>
+  <td>9/24</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/rocketlab?keyword=intern"><img src="https://cdn.brandfetch.io/rocketlabcorp.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="RocketLab" height="20" style="vertical-align:middle; margin-right:6px;"> RocketLab</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Systems Engineering Intern Summer 2027</div></td>
+  <td>9/24</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/rocketlab?keyword=intern"><img src="https://cdn.brandfetch.io/rocketlabcorp.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="RocketLab" height="20" style="vertical-align:middle; margin-right:6px;"> RocketLab</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Electrical Engineering Intern Summer 2027</div></td>
+  <td>9/24</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/skildai-careers"><img src="https://cdn.brandfetch.io/skildai.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Skild AI" height="20" style="vertical-align:middle; margin-right:6px;"> Skild AI</a></div>
 </td>
 
@@ -34233,10 +34273,34 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Program Manager, Fleet Readiness & Response Process Improvement - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>9/24</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Manager, Perception Data - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>9/24</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lilasciences/"><img src="https://cdn.brandfetch.io/lila.ai/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Lila Sciences" height="20" style="vertical-align:middle; margin-right:6px;"> Lila Sciences</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Principal Scientist / Associate Director, Soft Materials Experimentation</div></td>
+  <td>9/24</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lilasciences/"><img src="https://cdn.brandfetch.io/lila.ai/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Lila Sciences" height="20" style="vertical-align:middle; margin-right:6px;"> Lila Sciences</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, AI Platform</div></td>
   <td>9/24</td>
 </tr>
   <tr>
@@ -34309,6 +34373,22 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Systems Development Engineer</div></td>
+  <td>9/24</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/nerostechnologies/"><img src="https://cdn.brandfetch.io/nerostechnologies.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Neros Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Neros Technologies</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Government Affair Manager New</div></td>
+  <td>9/24</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.impulsespace.com/careers"><img src="https://cdn.brandfetch.io/impulsespace.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Impulse Space" height="20" style="vertical-align:middle; margin-right:6px;"> Impulse Space</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">PCB Layout Design Engineer</div></td>
   <td>9/24</td>
 </tr>
   <tr>
