@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 24184 roles across 205 companies*
+*Found 24187 roles across 205 companies*
 
 
 <table>
@@ -32633,6 +32633,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#"><img src="https://cdn.brandfetch.io/morganstanley.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Morgan Stanley" height="20" style="vertical-align:middle; margin-right:6px;"> Morgan Stanley</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2027 Japan Summer Analyst Program (Tokyo)</div></td>
+  <td>9/26</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><img src="https://cdn.brandfetch.io/amd.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="AMD" height="20" style="vertical-align:middle; margin-right:6px;"> AMD</a></div>
 </td>
 
@@ -33069,6 +33077,22 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">AI Business Analyst Intern 106145</div></td>
+  <td>9/26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://join.qq.com/post.html?query=p_2,w_407,w_408,w_401&c_t=2"><img src="https://cdn.brandfetch.io/tencent.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tencent" height="20" style="vertical-align:middle; margin-right:6px;"> Tencent</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Cloud Media Services Intern 108186</div></td>
+  <td>9/26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://join.qq.com/post.html?query=p_2,w_407,w_408,w_401&c_t=2"><img src="https://cdn.brandfetch.io/tencent.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tencent" height="20" style="vertical-align:middle; margin-right:6px;"> Tencent</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Tencent Cloud Business Development Intern - United States 108152</div></td>
   <td>9/26</td>
 </tr>
   <tr>
