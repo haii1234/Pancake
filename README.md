@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 24589 roles across 205 companies*
+*Found 24602 roles across 205 companies*
 
 
 <table>
@@ -28793,6 +28793,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">PhD Research Intern, Cross-Disciplinary Vision Science - Summer 2027</div></td>
+  <td>10/6</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&src=Online%2FGoogle%20Website%2FByF&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&location=United%20States"><img src="https://cdn.brandfetch.io/google.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Google" height="20" style="vertical-align:middle; margin-right:6px;"> Google</a></div>
 </td>
 
@@ -28917,6 +28925,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)</div></td>
+  <td>10/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&"><img src="https://cdn.brandfetch.io/amazon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA)</div></td>
   <td>10/6</td>
 </tr>
   <tr>
@@ -29177,6 +29193,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.intuit.com/search-jobs/interns/"><img src="https://cdn.brandfetch.io/intuit.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intuit" height="20" style="vertical-align:middle; margin-right:6px;"> Intuit</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Summer 2027: Technical Compliance Manager Intern</div></td>
+  <td>10/6</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.3ds.com/careers/jobs?woc=%257B%2522type%2522%253A%255B%2522type%252FInternship%2522%255D%252C%2522country%2522%253A%255B%2522country%252FUnited%2520States%2522%255D%257D"><img src="https://cdn.brandfetch.io/3ds.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Dassault Systems" height="20" style="vertical-align:middle; margin-right:6px;"> Dassault Systems</a></div>
 </td>
 
@@ -29417,6 +29441,46 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">WTVD ABC11 News Intern, Spring 2027</div></td>
+  <td>10/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">KABC-TV (ABC7) Community Engagement & Content Creation Intern, Spring 2027</div></td>
+  <td>10/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Tenaya Stone Spa Hiring Event - October 13th or October 29th, 2026</div></td>
+  <td>10/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Software Engineer</div></td>
+  <td>10/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Lead Product Software Engineer (Kotlin)</div></td>
+  <td>10/6</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.leidos.com/pages/intern-jobs?ns_landing_page_jobs=/search/job-level/intern/jobs/in/country/united-states?ns_landing_page=1"><img src="https://cdn.brandfetch.io/leidos.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Leidos" height="20" style="vertical-align:middle; margin-right:6px;"> Leidos</a></div>
 </td>
 
@@ -29481,6 +29545,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Autonomous Vehicle Rideshare Drivers (AM and PM Shifts)</div></td>
+  <td>10/6</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
 </td>
 
@@ -29541,6 +29613,30 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">CAE Engineer - Safety occupant - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>10/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Financial Operations Analyst - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>10/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Technical Program Manager - Verification and Validation - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>10/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Engineering Manager, Robot Data Visualization - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
   <td>10/6</td>
 </tr>
   <tr>
@@ -29613,6 +29709,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Graphic Designer</div></td>
+  <td>10/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.impulsespace.com/careers"><img src="https://cdn.brandfetch.io/impulsespace.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Impulse Space" height="20" style="vertical-align:middle; margin-right:6px;"> Impulse Space</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Spacecraft Test Engineer</div></td>
   <td>10/6</td>
 </tr>
   <tr>
