@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 24886 roles across 205 companies*
+*Found 24897 roles across 205 companies*
 
 
 <table>
@@ -26649,6 +26649,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Differentiable Simulation Research Intern - Summer 2027</div></td>
+  <td>10/12</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&src=Online%2FGoogle%20Website%2FByF&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&location=United%20States"><img src="https://cdn.brandfetch.io/google.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Google" height="20" style="vertical-align:middle; margin-right:6px;"> Google</a></div>
 </td>
 
@@ -26769,6 +26777,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.github.careers/careers-home/jobs?view=search&limit=100&page=1"><img src="https://cdn.brandfetch.io/github.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Github" height="20" style="vertical-align:middle; margin-right:6px;"> Github</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Researcher II</div></td>
+  <td>10/12</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
 </td>
 
@@ -26809,10 +26825,26 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://corporate.target.com/careers/job-search?referral=job-search-link&currentPage=1&jobAreas=Internships&profiles=Arrows%20Manager%7C%7CEntry%20Level&filtercondition=or"><img src="https://cdn.brandfetch.io/target.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Target" height="20" style="vertical-align:middle; margin-right:6px;"> Target</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Service & Engagement Executive Team Leader (Assistant Store Manager) – Eastern Los Angeles, CA (Starting January/February 2027)</div></td>
+  <td>10/12</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/jobs?workerSubType=1f9406d5717e109875eae116f2c007e5"><img src="https://cdn.brandfetch.io/bose.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Bose" height="20" style="vertical-align:middle; margin-right:6px;"> Bose</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Automotive Demand Planning Co-Op</div></td>
+  <td>10/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.irobot.com/search-jobs"><img src="https://cdn.brandfetch.io/irobot.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="iRobot" height="20" style="vertical-align:middle; margin-right:6px;"> iRobot</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Associate GTM Manager, Premium Portfolio</div></td>
   <td>10/12</td>
 </tr>
   <tr>
@@ -27009,10 +27041,26 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://search-careers.gm.com/en/jobs/?search=&country=United+States+of+America&team=Students+%26+Recent+Graduates&pagesize=100#results"><img src="https://cdn.brandfetch.io/gm.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="General Motors" height="20" style="vertical-align:middle; margin-right:6px;"> General Motors</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2027 Summer Intern – Program Management, GM Defense ,</div></td>
+  <td>10/12</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/rocketlab?keyword=intern"><img src="https://cdn.brandfetch.io/rocketlabcorp.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="RocketLab" height="20" style="vertical-align:middle; margin-right:6px;"> RocketLab</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Export Compliance Intern Spring 2027New</div></td>
+  <td>10/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/rocketlab?keyword=intern"><img src="https://cdn.brandfetch.io/rocketlabcorp.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="RocketLab" height="20" style="vertical-align:middle; margin-right:6px;"> RocketLab</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Ground Systems Engineering Intern Spring 2027New</div></td>
   <td>10/12</td>
 </tr>
   <tr>
@@ -27029,6 +27077,22 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Chassis Engineer, Steering and Braking Actuation - ON-SITE — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>10/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Machine Learning Engineer - 3D Sensor Simulation - HYBRID — FULL-TIMEFOSTER CITY, CA / SEATTLE, WA</div></td>
+  <td>10/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior / Staff Machine Learning Engineer - 3D Sensor Simulation - HYBRID — FULL-TIMEFOSTER CITY, CA / SEATTLE, WA</div></td>
   <td>10/12</td>
 </tr>
   <tr>
@@ -27081,10 +27145,34 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.bosch.com/en?pages=5&country=us&positionTypes=f524b939-fe55-407b-a0b0-e8f4eec28997%2C8c682ec0-3d28-4e52-b53b-c63d440a32d3%2Cf3b92bc1-600d-4d33-9115-5aa27785f52b%2Ce4a3c0db-920d-4356-8ce0-c0b44a54e497#"><img src="https://cdn.brandfetch.io/bosch.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Bosch" height="20" style="vertical-align:middle; margin-right:6px;"> Bosch</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Customer Sales Engineer - Manufacturing Diagnostics</div></td>
+  <td>10/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/nerostechnologies/"><img src="https://cdn.brandfetch.io/nerostechnologies.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Neros Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Neros Technologies</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Flight Test Operations Lead / Manager New</div></td>
+  <td>10/12</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.eu.greenhouse.io/lodestarspace/"><img src="https://cdn.brandfetch.io/lodestarss.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Lodestar" height="20" style="vertical-align:middle; margin-right:6px;"> Lodestar</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Technical Bid WriterNew</div></td>
+  <td>10/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/shieldai/?commitment=Intern"><img src="https://cdn.brandfetch.io/shieldair.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Shield AI" height="20" style="vertical-align:middle; margin-right:6px;"> Shield AI</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Electrical Engineering Intern - X-BAT Avionics (R4475) - ON-SITE — INTERNDALLAS, TEXAS / SAN DIEGO, CALIFORNIA / BOSTON, MASSACHUSETTS</div></td>
   <td>10/12</td>
 </tr>
   <tr>
