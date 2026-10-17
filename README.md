@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 25125 roles across 205 companies*
+*Found 25126 roles across 205 companies*
 
 
 <table>
@@ -24621,6 +24621,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 MBA Intern - Sales Strategy & Operations Manager</div></td>
+  <td>10/17</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern"><img src="https://cdn.brandfetch.io/siemens.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Siemens" height="20" style="vertical-align:middle; margin-right:6px;"> Siemens</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Strategic Student Program: Software Development Intern (PES, Spring 2027) - Mason, OH - Req ID: 525813</div></td>
   <td>10/17</td>
 </tr>
   <tr>
