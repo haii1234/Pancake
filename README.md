@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 25126 roles across 205 companies*
+*Found 25127 roles across 205 companies*
 
 
 <table>
@@ -24333,6 +24333,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Design Quality Engineering Intern</div></td>
+  <td>10/18</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careersatdoordash.com/university-careers/"><img src="https://cdn.brandfetch.io/doordash.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Doordash" height="20" style="vertical-align:middle; margin-right:6px;"> Doordash</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Electrical Engineer, Intern – Labs (Summer 2027)</div></td>
   <td>10/18</td>
 </tr>
   <tr>
