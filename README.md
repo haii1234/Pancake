@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 25127 roles across 205 companies*
+*Found 25128 roles across 205 companies*
 
 
 <table>
@@ -24357,6 +24357,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Talent Acquisition Marketing Account Management Intern, Spring 2026</div></td>
+  <td>10/18</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Program Manager, Fleet Support Specialists - ON-SITE — FULL-TIMEFOSTER CITY, CA</div></td>
   <td>10/18</td>
 </tr>
   <tr>
