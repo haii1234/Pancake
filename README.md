@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 25136 roles across 205 companies*
+*Found 25138 roles across 205 companies*
 
 
 <table>
@@ -24285,6 +24285,22 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Finance Operations Intern, Spring 2026</div></td>
+  <td>10/19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://beli.breezy.hr/"><img src="https://images.squarespace-cdn.com/content/v1/5d27a2af17e26b0001269fd6/8f86dd75-d05e-41db-a33f-01aa6c7391d4/Beli+Logo_FINAL070423.png" alt="Beli" height="20" style="vertical-align:middle; margin-right:6px;"> Beli</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Growth Lead, Marketing</div></td>
+  <td>10/19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://beli.breezy.hr/"><img src="https://images.squarespace-cdn.com/content/v1/5d27a2af17e26b0001269fd6/8f86dd75-d05e-41db-a33f-01aa6c7391d4/Beli+Logo_FINAL070423.png" alt="Beli" height="20" style="vertical-align:middle; margin-right:6px;"> Beli</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Growth Lead, Product</div></td>
   <td>10/19</td>
 </tr>
   <tr>
