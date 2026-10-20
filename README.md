@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 25195 roles across 205 companies*
+*Found 25202 roles across 205 companies*
 
 
 <table>
@@ -23889,6 +23889,22 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#"><img src="https://cdn.brandfetch.io/morganstanley.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Morgan Stanley" height="20" style="vertical-align:middle; margin-right:6px;"> Morgan Stanley</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Parametric - 2027 AI-Enabled Technical Co-op (Alpharetta, GA)</div></td>
+  <td>10/20</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#"><img src="https://cdn.brandfetch.io/morganstanley.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Morgan Stanley" height="20" style="vertical-align:middle; margin-right:6px;"> Morgan Stanley</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2027 Investment Management Off-Cycle Internship - UK Institutional Sales (London)</div></td>
+  <td>10/20</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/?source=Careers_Website_ec"><img src="https://cdn.brandfetch.io/workday.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Workday" height="20" style="vertical-align:middle; margin-right:6px;"> Workday</a></div>
 </td>
 
@@ -24221,6 +24237,46 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 Summer Internship - Private Credit</div></td>
+  <td>10/20</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.comcast.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.InternRotational%22,%22value%22:%22Intern%22%7D]"><img src="https://cdn.brandfetch.io/metrological.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Comcast" height="20" style="vertical-align:middle; margin-right:6px;"> Comcast</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Unified Communications Carrier Provisioner (Night Shift \| Hybrid)</div></td>
+  <td>10/20</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.comcast.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.InternRotational%22,%22value%22:%22Intern%22%7D]"><img src="https://cdn.brandfetch.io/metrological.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Comcast" height="20" style="vertical-align:middle; margin-right:6px;"> Comcast</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sr. Client Solutions Manager</div></td>
+  <td>10/20</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.comcast.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.InternRotational%22,%22value%22:%22Intern%22%7D]"><img src="https://cdn.brandfetch.io/metrological.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Comcast" height="20" style="vertical-align:middle; margin-right:6px;"> Comcast</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Advertising Account Executive (Eastern Washington Based)</div></td>
+  <td>10/20</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.t-mobile.com/internship"><img src="https://cdn.brandfetch.io/t-mobile.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="T-Mobile" height="20" style="vertical-align:middle; margin-right:6px;"> T-Mobile</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2027 Summer Human Resources & Workplace Experience Internship</div></td>
+  <td>10/20</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/rocketlab?keyword=intern"><img src="https://cdn.brandfetch.io/rocketlabcorp.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="RocketLab" height="20" style="vertical-align:middle; margin-right:6px;"> RocketLab</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Ground Systems Engineering Intern Spring 2027</div></td>
   <td>10/20</td>
 </tr>
   <tr>
