@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 25883 roles across 205 companies*
+*Found 25910 roles across 205 companies*
 
 
 <table>
@@ -19033,6 +19033,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Consulting - AI-First Transformation – Strategy Consultant Intern - Internship - New York, US</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
 </td>
 
@@ -19045,6 +19053,214 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">[GRIT] Social Media Trainee (6 months)</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: Online Mapping and Semantic Scene ...</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: Motion Planning and Decision Making ...</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: Gaussian Splatting SLAM</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: LLM Reasoning for Autonomous Driving ...</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: Real-Time End-to-End Autonomous ...</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: Closed-Loop E2E Driving</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: Heterogeneous Multi-Robot Task ...</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: Multimodal Action and Skill Understanding ...</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: Human-Object Interaction Learning ...</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: Life-Long Embodied Spatial Reasoning ...</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: Distributional Foundations of Multi-Agent ...</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: Action Proficiency Understanding ...</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: Self-Aware and Adaptive Multi-Modal ...</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: Test-Time Adaptation for Embodied ...</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: Machine Learning for Modeling Human-AI ...</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: Multimodal Learning for Human-AI ...</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: LLM-Enabled Multi-Agent Social ...</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: Embodied Interactions for Groups ...</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: Scaling Multimodal Robot Policy ...</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: Intelligent Multimodal Representation ...</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: Physical Human-Robot Interaction ...</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: Robust Robotic Manipulation</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: High-Fidelity Robotics Simulation ...</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: Disturbance-Resilient Motion Control ...</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: Camera-Based Perception for Marine ...</div></td>
+  <td>11/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/0.honda/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern: Nanomaterials Synthesis</div></td>
   <td>11/2</td>
 </tr>
   <tr>
