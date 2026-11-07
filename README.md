@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 26153 roles across 205 companies*
+*Found 26165 roles across 205 companies*
 
 
 <table>
@@ -17801,6 +17801,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.deloitte.com/en_US/careers/SearchJobs/?9339=%5B480%2C477%2C478%5D&9339_format=5915&26444=%5B113185584%2C113185586%2C113185566%2C113185568%2C113185564%5D&26444_format=44221&listFilterMode=1&jobRecordsPerPage=10&sort=relevancy"><img src="https://cdn.brandfetch.io/deloitte.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Deloitte" height="20" style="vertical-align:middle; margin-right:6px;"> Deloitte</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Audit & Assurance – Intern – Technology Controls Advisory (Japanese Services Group) – Summer 2027</div></td>
+  <td>11/6</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.github.careers/careers-home/jobs?view=search&limit=100&page=1"><img src="https://cdn.brandfetch.io/github.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Github" height="20" style="vertical-align:middle; margin-right:6px;"> Github</a></div>
 </td>
 
@@ -17821,6 +17829,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Facilities Maintenance Technician</div></td>
+  <td>11/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.epicgames.com/site/en-US/careers/jobs?type=Intern&country=United%20States&page=1"><img src="https://cdn.brandfetch.io/epicgames.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Epic Games" height="20" style="vertical-align:middle; margin-right:6px;"> Epic Games</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Player Marketing Intern (MBA)</div></td>
   <td>11/6</td>
 </tr>
   <tr>
@@ -17885,6 +17901,22 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Digital Visuals Editor/Illustrator</div></td>
+  <td>11/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">France Disney Cultural Representative Program</div></td>
+  <td>11/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Norway Disney Cultural Representative Program</div></td>
   <td>11/6</td>
 </tr>
   <tr>
@@ -18185,6 +18217,46 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data Science Intern [Summer 2027] - HYBRID — INTERNSHIP/CO-OPFOSTER CITY, CA / BOSTON, MA</div></td>
+  <td>11/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Process Improvement Intern [2027] - HYBRID — INTERNSHIP/CO-OPFOSTER CITY, CA</div></td>
+  <td>11/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Program Manager, Infrastructure Operations Intern [Summer 2027] - HYBRID — INTERNSHIP/CO-OPFOSTER CITY, CA</div></td>
+  <td>11/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">AI Workflows & Safety Decision Making Intern [2027] - HYBRID — INTERNSHIP/CO-OPFOSTER CITY, CA</div></td>
+  <td>11/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Safety Reporting & Benchmarking Intern [Summer 2027] - HYBRID — INTERNSHIP/CO-OPFOSTER CITY, CA</div></td>
+  <td>11/6</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lilasciences/"><img src="https://cdn.brandfetch.io/lila.ai/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Lila Sciences" height="20" style="vertical-align:middle; margin-right:6px;"> Lila Sciences</a></div>
 </td>
 
@@ -18249,10 +18321,34 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.bosch.com/en?pages=5&country=us&positionTypes=f524b939-fe55-407b-a0b0-e8f4eec28997%2C8c682ec0-3d28-4e52-b53b-c63d440a32d3%2Cf3b92bc1-600d-4d33-9115-5aa27785f52b%2Ce4a3c0db-920d-4356-8ce0-c0b44a54e497#"><img src="https://cdn.brandfetch.io/bosch.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Bosch" height="20" style="vertical-align:middle; margin-right:6px;"> Bosch</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Setter</div></td>
+  <td>11/6</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/shieldai/?commitment=Intern"><img src="https://cdn.brandfetch.io/shieldair.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Shield AI" height="20" style="vertical-align:middle; margin-right:6px;"> Shield AI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">June 2027 Co-0p - Electrical Engineering Intern - ON-SITE — INTERNDALLAS, TEXAS / SAN DIEGO, CALIFORNIA / BOSTON, MASSACHUSETTS / SEATTLE, WASHINGTON</div></td>
+  <td>11/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/shieldai/?commitment=Intern"><img src="https://cdn.brandfetch.io/shieldair.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Shield AI" height="20" style="vertical-align:middle; margin-right:6px;"> Shield AI</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2027 Summer Intern - Supplier Development Engineer - 6463 - ON-SITE — INTERNDALLAS, TEXAS</div></td>
+  <td>11/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/shieldai/?commitment=Intern"><img src="https://cdn.brandfetch.io/shieldair.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Shield AI" height="20" style="vertical-align:middle; margin-right:6px;"> Shield AI</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2027 Summer Intern - Supply Chain Materials Planner - 6434 - ON-SITE — INTERNSEATTLE, WASHINGTON</div></td>
   <td>11/6</td>
 </tr>
   <tr>
