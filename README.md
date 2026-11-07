@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 26169 roles across 205 companies*
+*Found 26173 roles across 205 companies*
 
 
 <table>
@@ -17353,6 +17353,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/?source=Careers_Website_ec"><img src="https://cdn.brandfetch.io/workday.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Workday" height="20" style="vertical-align:middle; margin-right:6px;"> Workday</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">UX Designer Intern (Canada)</div></td>
+  <td>11/7</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.datadoghq.com/early-careers/"><img src="https://cdn.brandfetch.io/datadoghq.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Datadog" height="20" style="vertical-align:middle; margin-right:6px;"> Datadog</a></div>
 </td>
 
@@ -17549,6 +17557,30 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Hardware Systems Engineer</div></td>
+  <td>11/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.impulsespace.com/careers"><img src="https://cdn.brandfetch.io/impulsespace.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Impulse Space" height="20" style="vertical-align:middle; margin-right:6px;"> Impulse Space</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Chief Engineer (Lunar Landers)</div></td>
+  <td>11/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.impulsespace.com/careers"><img src="https://cdn.brandfetch.io/impulsespace.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Impulse Space" height="20" style="vertical-align:middle; margin-right:6px;"> Impulse Space</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Optical Navigation Engineer (Lunar)</div></td>
+  <td>11/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.impulsespace.com/careers"><img src="https://cdn.brandfetch.io/impulsespace.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Impulse Space" height="20" style="vertical-align:middle; margin-right:6px;"> Impulse Space</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Optical Navigation Responsible Engineer (Lunar)</div></td>
   <td>11/7</td>
 </tr>
   <tr>
