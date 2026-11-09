@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 26185 roles across 205 companies*
+*Found 26220 roles across 205 companies*
 
 
 <table>
@@ -17257,6 +17257,14 @@
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Product Management Space Compute MBA Intern - Summer 2027</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#"><img src="https://cdn.brandfetch.io/morganstanley.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Morgan Stanley" height="20" style="vertical-align:middle; margin-right:6px;"> Morgan Stanley</a></div>
 </td>
 
@@ -17277,6 +17285,278 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SR. EQUIPMENT RELIABILITY ENGINEER, CRANES (STARSHIP)</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Hospitality Coffee Service Associate</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Lead C# Developer - Core Trading Technology</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Hospitality Coffee Service Associate</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Lead C# Developer - Core Trading Technology</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york"><img src="https://cdn.brandfetch.io/janestreet.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Jane Street" height="20" style="vertical-align:middle; margin-right:6px;"> Jane Street</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Formal Methods Research and Development</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/?workerSubType=fbfd99a3c13201ab06a11542991f9208"><img src="https://cdn.brandfetch.io/bostondynamics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boston Dynamics" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Dynamics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manufacturing Test Engineer Co-Op</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.duolingo.com/?type=Intern#careers->https://careers.duolingo.com/?type=Thrive+Program#careers->https://careers.duolingo.com/?type=New+Grad#careers"><img src="https://cdn.brandfetch.io/duolingo.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Duolingo" height="20" style="vertical-align:middle; margin-right:6px;"> Duolingo</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">AI Research Intern (PhD)</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.duolingo.com/?type=Intern#careers->https://careers.duolingo.com/?type=Thrive+Program#careers->https://careers.duolingo.com/?type=New+Grad#careers"><img src="https://cdn.brandfetch.io/duolingo.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Duolingo" height="20" style="vertical-align:middle; margin-right:6px;"> Duolingo</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data Scientist, Intern (PhD)</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.duolingo.com/?type=Intern#careers->https://careers.duolingo.com/?type=Thrive+Program#careers->https://careers.duolingo.com/?type=New+Grad#careers"><img src="https://cdn.brandfetch.io/duolingo.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Duolingo" height="20" style="vertical-align:middle; margin-right:6px;"> Duolingo</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Product Manager, MBA Intern</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.duolingo.com/?type=Intern#careers->https://careers.duolingo.com/?type=Thrive+Program#careers->https://careers.duolingo.com/?type=New+Grad#careers"><img src="https://cdn.brandfetch.io/duolingo.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Duolingo" height="20" style="vertical-align:middle; margin-right:6px;"> Duolingo</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">QA Specialist I, Recent Graduate</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Director, Safety - Disney Signature Experiences</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.skydio.com/careers#job-listing"><img src="https://cdn.brandfetch.io/skydio.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Skydio" height="20" style="vertical-align:middle; margin-right:6px;"> Skydio</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Systems Engineering Intern - Summer 2027</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers?workerSubType=189767dd6c920145d5c3e59c2c297819&Location_Country=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/samsung.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Samsung" height="20" style="vertical-align:middle; margin-right:6px;"> Samsung</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">GTM Innovation (Switcher Strategy & Experience)</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers?workerSubType=189767dd6c920145d5c3e59c2c297819&Location_Country=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/samsung.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Samsung" height="20" style="vertical-align:middle; margin-right:6px;"> Samsung</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Business Strategy & Intelligence Intern</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers?workerSubType=189767dd6c920145d5c3e59c2c297819&Location_Country=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/samsung.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Samsung" height="20" style="vertical-align:middle; margin-right:6px;"> Samsung</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Strategy Intern for National Retail and Strategic Accounts</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers?workerSubType=189767dd6c920145d5c3e59c2c297819&Location_Country=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/samsung.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Samsung" height="20" style="vertical-align:middle; margin-right:6px;"> Samsung</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Summer Intern - VD eCommerce (Direct Value Proposition & Partnerships)</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers?workerSubType=189767dd6c920145d5c3e59c2c297819&Location_Country=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/samsung.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Samsung" height="20" style="vertical-align:middle; margin-right:6px;"> Samsung</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">ePro Business & Data Analyst Intern</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers?workerSubType=189767dd6c920145d5c3e59c2c297819&Location_Country=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/samsung.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Samsung" height="20" style="vertical-align:middle; margin-right:6px;"> Samsung</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Summer Intern - DA eCommerce (B2B & Parts Strategy)</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers?workerSubType=189767dd6c920145d5c3e59c2c297819&Location_Country=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/samsung.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Samsung" height="20" style="vertical-align:middle; margin-right:6px;"> Samsung</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">eCom Fulfillment Final Mile Intern</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://search-careers.gm.com/en/jobs/?search=&country=United+States+of+America&team=Students+%26+Recent+Graduates&pagesize=100#results"><img src="https://cdn.brandfetch.io/gm.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="General Motors" height="20" style="vertical-align:middle; margin-right:6px;"> General Motors</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2027 Summer Intern - AI/ML Engineer - AV Developer Productivity</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://search-careers.gm.com/en/jobs/?search=&country=United+States+of+America&team=Students+%26+Recent+Graduates&pagesize=100#results"><img src="https://cdn.brandfetch.io/gm.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="General Motors" height="20" style="vertical-align:middle; margin-right:6px;"> General Motors</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Product Manager, Robotics AI Strategy & Operations - Early Career</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/rocketlab?keyword=intern"><img src="https://cdn.brandfetch.io/rocketlabcorp.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="RocketLab" height="20" style="vertical-align:middle; margin-right:6px;"> RocketLab</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">People & Culture Intern Summer 2027</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robot Service Technician – Full-Time (Mon-Fri, PM Shift)</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/maymobility/"><img src="https://cdn.brandfetch.io/maymobility.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="May Mobility" height="20" style="vertical-align:middle; margin-right:6px;"> May Mobility</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Autonomy Applications EngineerNew</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zooxsmart.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff / Senior Staff Machine Learning Engineer - Collision Avoidance System - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lilasciences/"><img src="https://cdn.brandfetch.io/lila.ai/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Lila Sciences" height="20" style="vertical-align:middle; margin-right:6px;"> Lila Sciences</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Machine Learning Scientist, AI for Protein Engineering</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lilasciences/"><img src="https://cdn.brandfetch.io/lila.ai/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Lila Sciences" height="20" style="vertical-align:middle; margin-right:6px;"> Lila Sciences</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Machine Learning Scientist, BioML</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lilasciences/"><img src="https://cdn.brandfetch.io/lila.ai/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Lila Sciences" height="20" style="vertical-align:middle; margin-right:6px;"> Lila Sciences</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Machine Learning Scientist, Protein Design</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.bosch.com/en?pages=5&country=us&positionTypes=f524b939-fe55-407b-a0b0-e8f4eec28997%2C8c682ec0-3d28-4e52-b53b-c63d440a32d3%2Cf3b92bc1-600d-4d33-9115-5aa27785f52b%2Ce4a3c0db-920d-4356-8ce0-c0b44a54e497#"><img src="https://cdn.brandfetch.io/bosch.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Bosch" height="20" style="vertical-align:middle; margin-right:6px;"> Bosch</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Purchasing & Logistics Specialist</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.bosch.com/en?pages=5&country=us&positionTypes=f524b939-fe55-407b-a0b0-e8f4eec28997%2C8c682ec0-3d28-4e52-b53b-c63d440a32d3%2Cf3b92bc1-600d-4d33-9115-5aa27785f52b%2Ce4a3c0db-920d-4356-8ce0-c0b44a54e497#"><img src="https://cdn.brandfetch.io/bosch.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Bosch" height="20" style="vertical-align:middle; margin-right:6px;"> Bosch</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Aftermarket Coordinator</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/diligentrobotics"><img src="https://cdn.brandfetch.io/diligentrobots.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Diligent Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Diligent Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Lead Clinical Robot Associate - Barstow, CA (on-site)</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/diligentrobotics"><img src="https://cdn.brandfetch.io/diligentrobots.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Diligent Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Diligent Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Part Time (temporary) - Clinical Robot Associate - Newark, DE (on-site)</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/nerostechnologies/"><img src="https://cdn.brandfetch.io/nerostechnologies.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Neros Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Neros Technologies</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Brand Designer</div></td>
+  <td>11/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.impulsespace.com/careers"><img src="https://cdn.brandfetch.io/impulsespace.com/w/400/h/400?c=96q9S3C8DIRxiS2m/5XaA1mjYQ8Z9ZJdjXpgQBlHEJo=" alt="Impulse Space" height="20" style="vertical-align:middle; margin-right:6px;"> Impulse Space</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Accounting Manager, Revenue</div></td>
   <td>11/9</td>
 </tr>
   <tr>
