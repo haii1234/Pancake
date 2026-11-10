@@ -1316,6 +1316,10 @@
       {
         "title": "Product Management Space Compute MBA Intern - Summer 2027",
         "date": "11/9"
+      },
+      {
+        "title": "Systems Research Intern, Observability \u2013 Summer 2027",
+        "date": "11/9"
       }
     ],
     "AWS": [
@@ -4076,6 +4080,10 @@
       {
         "title": "Amazon Finance Rotational Program (AFRP) Accounting Intern \u2013 Summer 2027",
         "date": "11/2"
+      },
+      {
+        "title": "Software Development Engineer Intern - Summer 2027",
+        "date": "11/9"
       }
     ],
     "Welch's": [
@@ -14004,6 +14012,10 @@
       {
         "title": "2027 Institutional Equity Division Early Careers Program (Hong Kong / Singapore)",
         "date": "11/8"
+      },
+      {
+        "title": "2027 Operations Industrial Placement Programme (Frankfurt)",
+        "date": "11/9"
       }
     ],
     "Ramp": [
@@ -32329,6 +32341,10 @@
       {
         "title": "Wi-Fi Research Co-op",
         "date": "11/4"
+      },
+      {
+        "title": "Defense Software Test & AI Co-Op",
+        "date": "11/9"
       }
     ],
     "EA": [
@@ -39147,6 +39163,14 @@
       {
         "title": "Lead C# Developer - Core Trading Technology",
         "date": "11/9"
+      },
+      {
+        "title": "Credit Risk Analyst",
+        "date": "11/9"
+      },
+      {
+        "title": "Credit Risk Analyst",
+        "date": "11/9"
       }
     ],
     "Jane Street": [
@@ -42513,6 +42537,10 @@
       {
         "title": "Intern, Engineering (Independent Cart Technology)",
         "date": "11/5"
+      },
+      {
+        "title": "Co-op, User Experience - Robotics (Jan - Apr 2027)",
+        "date": "11/9"
       }
     ],
     "Boston Scientific": [
@@ -58134,6 +58162,14 @@
       {
         "title": "Director, Safety - Disney Signature Experiences",
         "date": "11/9"
+      },
+      {
+        "title": "Sr Product Mgr (Project Hire)",
+        "date": "11/9"
+      },
+      {
+        "title": "Security Officer (PT)",
+        "date": "11/9"
       }
     ],
     "Goldman Sachs": [
@@ -58270,6 +58306,10 @@
       {
         "title": "Strategy & Operations Intern - Summer 2027",
         "date": "10/30"
+      },
+      {
+        "title": "Growth Intern - Spring 2027",
+        "date": "11/9"
       }
     ],
     "Raytheon": [],
@@ -65514,6 +65554,10 @@
       {
         "title": "Operations Manager (Starting Winter 2026) Food Distribution Center - Cedar Falls, IA",
         "date": "11/6"
+      },
+      {
+        "title": "Operations Manager (Starting January 2027) Regional Distribution Center- Topeka, KS",
+        "date": "11/9"
       }
     ],
     "Amentum": [
@@ -69963,6 +70007,10 @@
       {
         "title": "eCom Fulfillment Final Mile Intern",
         "date": "11/9"
+      },
+      {
+        "title": "ePro AI Business & Data Analyst Intern",
+        "date": "11/9"
       }
     ],
     "Medtronic": [
@@ -71963,6 +72011,10 @@
       {
         "title": "Marketing Events Intern",
         "date": "11/6"
+      },
+      {
+        "title": "Robotics and Controls Engineering Intern",
+        "date": "11/9"
       }
     ],
     "Stoke Space": [
@@ -76417,6 +76469,10 @@
       {
         "title": "Senior Project Engineer - Mechanical Systems",
         "date": "10/30"
+      },
+      {
+        "title": "Mechanical Engineer - Customer Projects",
+        "date": "11/9"
       }
     ],
     "Zillow": [
@@ -77647,6 +77703,18 @@
       {
         "title": "Robotics Systems EngineerNew",
         "date": "11/4"
+      },
+      {
+        "title": "Manufacturing Technician",
+        "date": "11/9"
+      },
+      {
+        "title": "Quality Control Technician",
+        "date": "11/9"
+      },
+      {
+        "title": "Support Engineer",
+        "date": "11/9"
       }
     ],
     "Aurora Innovation": [
@@ -80352,6 +80420,14 @@
       },
       {
         "title": "Robot Service Technician \u2013 Full-Time (Mon-Fri, PM Shift)",
+        "date": "11/9"
+      },
+      {
+        "title": "Procurement SpecialistNew",
+        "date": "11/9"
+      },
+      {
+        "title": "Robot Service Technician Assistant - Part Time Evenings New",
         "date": "11/9"
       }
     ],
@@ -85898,6 +85974,38 @@
       },
       {
         "title": "Staff / Senior Staff Machine Learning Engineer - Collision Avoidance System - HYBRID \u2014 FULL-TIMEFOSTER CITY, CA",
+        "date": "11/9"
+      },
+      {
+        "title": "Embedded Software Engineer - HYBRID \u2014 FULL-TIMEFOSTER CITY, CA",
+        "date": "11/9"
+      },
+      {
+        "title": "Machine Learning Engineer, 3D Simulation - HYBRID \u2014 FULL-TIMEFOSTER CITY, CA / SEATTLE, WA",
+        "date": "11/9"
+      },
+      {
+        "title": "Senior/Staff Machine Learning Engineer, 3D Simulation - HYBRID \u2014 FULL-TIMEFOSTER CITY, CA / SEATTLE, WA",
+        "date": "11/9"
+      },
+      {
+        "title": "Senior/Staff Software Engineer, Core Connectivity - HYBRID \u2014 FULL-TIMEFOSTER CITY, CA / SEATTLE, WA",
+        "date": "11/9"
+      },
+      {
+        "title": "Senior Exterior Designer, Robot Industrial Design - ON-SITE \u2014 FULL-TIMEFOSTER CITY, CA",
+        "date": "11/9"
+      },
+      {
+        "title": "Program Manager Intern [Summer 2027] - HYBRID \u2014 INTERNSHIP/CO-OPFOSTER CITY, CA",
+        "date": "11/9"
+      },
+      {
+        "title": "AI Workflows Intern [2027] - HYBRID \u2014 INTERNSHIP/CO-OPFOSTER CITY, CA",
+        "date": "11/9"
+      },
+      {
+        "title": "Safety Reporting Intern [Summer 2027] - HYBRID \u2014 INTERNSHIP/CO-OPFOSTER CITY, CA",
         "date": "11/9"
       }
     ],
@@ -95652,6 +95760,10 @@
       {
         "title": "Aftermarket Coordinator",
         "date": "11/9"
+      },
+      {
+        "title": "Research Engineer - Robotics AI",
+        "date": "11/9"
       }
     ],
     "Intrinsic": [
@@ -104913,6 +105025,14 @@
       },
       {
         "title": "Accounting Manager, Revenue",
+        "date": "11/9"
+      },
+      {
+        "title": "Senior Optical Navigation, Terrain-Relative Navigation (Lunar)",
+        "date": "11/9"
+      },
+      {
+        "title": "Senior Optical Navigation, Terrain-Relative Navigation (Lunar)",
         "date": "11/9"
       }
     ],
