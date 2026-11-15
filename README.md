@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 26485 roles across 205 companies*
+*Found 26486 roles across 205 companies*
 
 
 <table>
@@ -15413,6 +15413,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Machine Learning Science Graduate - PhD - 2026 - London</div></td>
+  <td>11/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern"><img src="https://cdn.brandfetch.io/siemens.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Siemens" height="20" style="vertical-align:middle; margin-right:6px;"> Siemens</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Strategic Student Program: Go-To-Market Sales Execution Intern (GS&CS, Spring 2027) - Mason, OH - Work Type: Hybrid - Job Family: Internal Services - Req ID: 520088</div></td>
   <td>11/15</td>
 </tr>
   <tr>
