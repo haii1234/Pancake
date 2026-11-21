@@ -10,7 +10,7 @@
 ---
 
 ## 🔍 2025 Job Listings
-*Found 26763 roles across 205 companies*
+*Found 26764 roles across 205 companies*
 
 
 <table>
@@ -13997,6 +13997,14 @@
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer \| Trader & Quant Education Technology \| Experienced Hire</div></td>
+  <td>11/21</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern"><img src="https://cdn.brandfetch.io/adobe.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Adobe" height="20" style="vertical-align:middle; margin-right:6px;"> Adobe</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2027 MBA Intern - Digital Strategy Associate, Strategic Advisory</div></td>
   <td>11/21</td>
 </tr>
   <tr>
